@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: iMessage_1.2.1.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '15'
+packageInfo:
+  cur_package: com.huluwa.imessage
+  orig_package: com.huluwa.imessage
+compressionType: false

@@ -1,0 +1,4962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="and_emoji_two_unicode">
+        <item>0xe50b</item>
+        <item>0xe514</item>
+        <item>0xe513</item>
+        <item>0xe50c</item>
+        <item>0xe50d</item>
+        <item>0xe511</item>
+        <item>0xe50f</item>
+        <item>0xe512</item>
+        <item>0xe510</item>
+        <item>0xe50e</item>
+        <item>0xe21c</item>
+        <item>0xe21d</item>
+        <item>0xe21e</item>
+        <item>0xe21f</item>
+        <item>0xe220</item>
+        <item>0xe221</item>
+        <item>0xe222</item>
+        <item>0xe223</item>
+        <item>0xe224</item>
+        <item>0xe225</item>
+        <item>0xe210</item>
+    </integer-array>
+    <integer-array name="and_emoji_one_unicode">
+        <item>0xe415</item>
+        <item>0xe056</item>
+        <item>0xe057</item>
+        <item>0xe414</item>
+        <item>0xe405</item>
+        <item>0xe106</item>
+        <item>0xe418</item>
+        <item>0xe417</item>
+        <item>0xe40d</item>
+        <item>0xe40a</item>
+        <item>0xe404</item>
+        <item>0xe105</item>
+        <item>0xe409</item>
+        <item>0xe40e</item>
+        <item>0xe402</item>
+        <item>0xe108</item>
+        <item>0xe403</item>
+        <item>0xe058</item>
+        <item>0xe407</item>
+        <item>0xe401</item>
+        <item>0xe40f</item>
+        <item>0xe40b</item>
+        <item>0xe406</item>
+        <item>0xe413</item>
+        <item>0xe411</item>
+        <item>0xe412</item>
+        <item>0xe410</item>
+        <item>0xe107</item>
+        <item>0xe059</item>
+        <item>0xe416</item>
+        <item>0xe408</item>
+        <item>0xe40c</item>
+        <item>0xe11a</item>
+        <item>0xe10c</item>
+        <item>0xe32c</item>
+        <item>0xe32a</item>
+        <item>0xe32d</item>
+        <item>0xe328</item>
+        <item>0xe32b</item>
+        <item>0xe022</item>
+        <item>0xe023</item>
+        <item>0xe327</item>
+        <item>0xe329</item>
+        <item>0xe32e</item>
+        <item>0xe335</item>
+        <item>0xe334</item>
+        <item>0xe337</item>
+        <item>0xe336</item>
+        <item>0xe13c</item>
+        <item>0xe330</item>
+        <item>0xe331</item>
+        <item>0xe326</item>
+        <item>0xe03e</item>
+        <item>0xe11d</item>
+        <item>0xe05a</item>
+        <item>0xe00e</item>
+        <item>0xe421</item>
+        <item>0xe420</item>
+        <item>0xe00d</item>
+        <item>0xe010</item>
+        <item>0xe011</item>
+        <item>0xe41e</item>
+        <item>0xe012</item>
+        <item>0xe422</item>
+        <item>0xe22e</item>
+        <item>0xe22f</item>
+        <item>0xe231</item>
+        <item>0xe230</item>
+        <item>0xe427</item>
+        <item>0xe41d</item>
+        <item>0xe00f</item>
+        <item>0xe41f</item>
+        <item>0xe14c</item>
+        <item>0xe201</item>
+        <item>0xe115</item>
+        <item>0xe428</item>
+        <item>0xe51f</item>
+        <item>0xe429</item>
+        <item>0xe424</item>
+        <item>0xe423</item>
+        <item>0xe253</item>
+        <item>0xe426</item>
+        <item>0xe111</item>
+        <item>0xe425</item>
+        <item>0xe31e</item>
+        <item>0xe31f</item>
+        <item>0xe31d</item>
+        <item>0xe001</item>
+        <item>0xe002</item>
+        <item>0xe005</item>
+        <item>0xe004</item>
+        <item>0xe51a</item>
+        <item>0xe519</item>
+        <item>0xe518</item>
+        <item>0xe515</item>
+        <item>0xe516</item>
+        <item>0xe517</item>
+        <item>0xe51b</item>
+        <item>0xe152</item>
+        <item>0xe04e</item>
+        <item>0xe51c</item>
+        <item>0xe51e</item>
+        <item>0xe11c</item>
+        <item>0xe536</item>
+        <item>0xe003</item>
+        <item>0xe41c</item>
+        <item>0xe41b</item>
+        <item>0xe419</item>
+        <item>0xe41a</item>
+        <item>0xe04a</item>
+        <item>0xe04b</item>
+        <item>0xe049</item>
+        <item>0xe048</item>
+        <item>0xe04c</item>
+        <item>0xe13d</item>
+        <item>0xe443</item>
+        <item>0xe43e</item>
+        <item>0xe04f</item>
+        <item>0xe052</item>
+        <item>0xe053</item>
+        <item>0xe524</item>
+        <item>0xe52c</item>
+        <item>0xe52a</item>
+        <item>0xe531</item>
+        <item>0xe050</item>
+        <item>0xe527</item>
+        <item>0xe051</item>
+        <item>0xe10b</item>
+        <item>0xe52b</item>
+        <item>0xe52f</item>
+        <item>0xe109</item>
+        <item>0xe528</item>
+        <item>0xe01a</item>
+        <item>0xe134</item>
+        <item>0xe530</item>
+        <item>0xe529</item>
+        <item>0xe526</item>
+        <item>0xe52d</item>
+        <item>0xe521</item>
+        <item>0xe523</item>
+        <item>0xe52e</item>
+        <item>0xe055</item>
+        <item>0xe525</item>
+        <item>0xe10a</item>
+        <item>0xe522</item>
+        <item>0xe019</item>
+        <item>0xe054</item>
+        <item>0xe520</item>
+        <item>0xe306</item>
+        <item>0xe030</item>
+        <item>0xe304</item>
+        <item>0xe110</item>
+        <item>0xe032</item>
+        <item>0xe305</item>
+        <item>0xe303</item>
+        <item>0xe118</item>
+        <item>0xe447</item>
+        <item>0xe119</item>
+        <item>0xe307</item>
+        <item>0xe308</item>
+        <item>0xe444</item>
+        <item>0xe441</item>
+        <item>0xe436</item>
+        <item>0xe437</item>
+        <item>0xe438</item>
+        <item>0xe43a</item>
+        <item>0xe439</item>
+        <item>0xe43b</item>
+        <item>0xe117</item>
+        <item>0xe440</item>
+        <item>0xe442</item>
+        <item>0xe446</item>
+        <item>0xe445</item>
+        <item>0xe11b</item>
+        <item>0xe448</item>
+        <item>0xe033</item>
+        <item>0xe112</item>
+        <item>0xe325</item>
+        <item>0xe312</item>
+        <item>0xe310</item>
+        <item>0xe126</item>
+        <item>0xe127</item>
+        <item>0xe008</item>
+        <item>0xe03d</item>
+        <item>0xe00c</item>
+        <item>0xe12a</item>
+        <item>0xe00a</item>
+        <item>0xe00b</item>
+        <item>0xe009</item>
+        <item>0xe316</item>
+        <item>0xe129</item>
+        <item>0xe141</item>
+        <item>0xe142</item>
+        <item>0xe317</item>
+        <item>0xe128</item>
+        <item>0xe14b</item>
+        <item>0xe211</item>
+        <item>0xe114</item>
+        <item>0xe145</item>
+        <item>0xe144</item>
+        <item>0xe03f</item>
+        <item>0xe313</item>
+        <item>0xe116</item>
+        <item>0xe10f</item>
+        <item>0xe104</item>
+        <item>0xe103</item>
+        <item>0xe101</item>
+        <item>0xe102</item>
+        <item>0xe13f</item>
+        <item>0xe140</item>
+        <item>0xe11f</item>
+        <item>0xe12f</item>
+        <item>0xe031</item>
+        <item>0xe30e</item>
+        <item>0xe311</item>
+        <item>0xe113</item>
+        <item>0xe30f</item>
+        <item>0xe13b</item>
+        <item>0xe42b</item>
+        <item>0xe42a</item>
+        <item>0xe018</item>
+        <item>0xe016</item>
+        <item>0xe015</item>
+        <item>0xe014</item>
+        <item>0xe42c</item>
+        <item>0xe42d</item>
+        <item>0xe017</item>
+        <item>0xe013</item>
+        <item>0xe20e</item>
+        <item>0xe20c</item>
+        <item>0xe20f</item>
+        <item>0xe20d</item>
+        <item>0xe131</item>
+        <item>0xe12b</item>
+        <item>0xe130</item>
+        <item>0xe12d</item>
+        <item>0xe324</item>
+        <item>0xe301</item>
+        <item>0xe148</item>
+        <item>0xe502</item>
+        <item>0xe03c</item>
+        <item>0xe30a</item>
+        <item>0xe042</item>
+        <item>0xe040</item>
+        <item>0xe041</item>
+        <item>0xe12c</item>
+        <item>0xe007</item>
+        <item>0xe31a</item>
+        <item>0xe13e</item>
+        <item>0xe31b</item>
+        <item>0xe006</item>
+        <item>0xe302</item>
+        <item>0xe319</item>
+        <item>0xe321</item>
+        <item>0xe322</item>
+        <item>0xe314</item>
+        <item>0xe503</item>
+        <item>0xe10e</item>
+        <item>0xe318</item>
+        <item>0xe43c</item>
+        <item>0xe11e</item>
+        <item>0xe323</item>
+        <item>0xe31c</item>
+        <item>0xe034</item>
+        <item>0xe035</item>
+        <item>0xe045</item>
+        <item>0xe338</item>
+        <item>0xe047</item>
+        <item>0xe30c</item>
+        <item>0xe044</item>
+        <item>0xe30b</item>
+        <item>0xe043</item>
+        <item>0xe120</item>
+        <item>0xe33b</item>
+        <item>0xe33f</item>
+        <item>0xe341</item>
+        <item>0xe34c</item>
+        <item>0xe344</item>
+        <item>0xe342</item>
+        <item>0xe33d</item>
+        <item>0xe33e</item>
+        <item>0xe340</item>
+        <item>0xe34d</item>
+        <item>0xe339</item>
+        <item>0xe147</item>
+        <item>0xe343</item>
+        <item>0xe33c</item>
+        <item>0xe33a</item>
+        <item>0xe43f</item>
+        <item>0xe34b</item>
+        <item>0xe046</item>
+        <item>0xe345</item>
+        <item>0xe346</item>
+        <item>0xe348</item>
+        <item>0xe347</item>
+        <item>0xe34a</item>
+        <item>0xe349</item>
+        <item>0xe036</item>
+        <item>0xe157</item>
+        <item>0xe038</item>
+        <item>0xe153</item>
+        <item>0xe155</item>
+        <item>0xe14d</item>
+        <item>0xe156</item>
+        <item>0xe501</item>
+        <item>0xe158</item>
+        <item>0xe43d</item>
+        <item>0xe037</item>
+        <item>0xe504</item>
+        <item>0xe44a</item>
+        <item>0xe146</item>
+        <item>0xe154</item>
+        <item>0xe505</item>
+        <item>0xe506</item>
+        <item>0xe122</item>
+        <item>0xe508</item>
+        <item>0xe509</item>
+        <item>0xe03b</item>
+        <item>0xe04d</item>
+        <item>0xe449</item>
+        <item>0xe44b</item>
+        <item>0xe51d</item>
+        <item>0xe44c</item>
+        <item>0xe124</item>
+        <item>0xe121</item>
+        <item>0xe433</item>
+        <item>0xe202</item>
+        <item>0xe135</item>
+        <item>0xe01c</item>
+        <item>0xe01d</item>
+        <item>0xe10d</item>
+        <item>0xe136</item>
+        <item>0xe42e</item>
+        <item>0xe01b</item>
+        <item>0xe15a</item>
+        <item>0xe159</item>
+        <item>0xe432</item>
+        <item>0xe430</item>
+        <item>0xe431</item>
+        <item>0xe42f</item>
+        <item>0xe01e</item>
+        <item>0xe039</item>
+        <item>0xe435</item>
+        <item>0xe01f</item>
+        <item>0xe125</item>
+        <item>0xe03a</item>
+        <item>0xe14e</item>
+        <item>0xe252</item>
+        <item>0xe137</item>
+        <item>0xe209</item>
+        <item>0xe133</item>
+        <item>0xe150</item>
+        <item>0xe320</item>
+        <item>0xe123</item>
+        <item>0xe132</item>
+        <item>0xe143</item>
+        <item>0xe232</item>
+        <item>0xe233</item>
+        <item>0xe235</item>
+        <item>0xe234</item>
+        <item>0xe236</item>
+        <item>0xe237</item>
+        <item>0xe238</item>
+        <item>0xe239</item>
+        <item>0xe23b</item>
+        <item>0xe23a</item>
+        <item>0xe23d</item>
+        <item>0xe23c</item>
+        <item>0xe24d</item>
+        <item>0xe212</item>
+        <item>0xe24c</item>
+        <item>0xe213</item>
+        <item>0xe214</item>
+        <item>0xe507</item>
+        <item>0xe203</item>
+        <item>0xe20b</item>
+        <item>0xe22a</item>
+        <item>0xe22b</item>
+        <item>0xe226</item>
+        <item>0xe227</item>
+        <item>0xe22c</item>
+        <item>0xe22d</item>
+        <item>0xe215</item>
+        <item>0xe216</item>
+        <item>0xe217</item>
+        <item>0xe218</item>
+        <item>0xe228</item>
+        <item>0xe151</item>
+        <item>0xe138</item>
+        <item>0xe139</item>
+        <item>0xe13a</item>
+        <item>0xe208</item>
+        <item>0xe14f</item>
+        <item>0xe20a</item>
+        <item>0xe434</item>
+        <item>0xe309</item>
+        <item>0xe315</item>
+        <item>0xe30d</item>
+        <item>0xe207</item>
+        <item>0xe229</item>
+        <item>0xe206</item>
+        <item>0xe205</item>
+        <item>0xe204</item>
+        <item>0xe12e</item>
+        <item>0xe250</item>
+        <item>0xe251</item>
+        <item>0xe14a</item>
+        <item>0xe149</item>
+        <item>0xe23f</item>
+        <item>0xe240</item>
+        <item>0xe241</item>
+        <item>0xe242</item>
+        <item>0xe243</item>
+        <item>0xe244</item>
+        <item>0xe245</item>
+        <item>0xe246</item>
+        <item>0xe247</item>
+        <item>0xe248</item>
+        <item>0xe249</item>
+        <item>0xe24a</item>
+        <item>0xe24b</item>
+        <item>0xe23e</item>
+        <item>0xe532</item>
+        <item>0xe533</item>
+        <item>0xe534</item>
+        <item>0xe535</item>
+        <item>0xe21a</item>
+        <item>0xe219</item>
+        <item>0xe21b</item>
+        <item>0xe02f</item>
+        <item>0xe024</item>
+        <item>0xe025</item>
+        <item>0xe026</item>
+        <item>0xe027</item>
+        <item>0xe028</item>
+        <item>0xe029</item>
+        <item>0xe02a</item>
+        <item>0xe02b</item>
+        <item>0xe02c</item>
+        <item>0xe02d</item>
+        <item>0xe02e</item>
+        <item>0xe332</item>
+        <item>0xe333</item>
+        <item>0xe24e</item>
+        <item>0xe24f</item>
+        <item>0xe537</item>
+    </integer-array>
+    <string-array name="countryname">
+        <item>American Samoa (+1)</item>
+        <item>Afghanistan (+93)</item>
+        <item>Aland Islands (+358)</item>
+        <item>Albania (+355)</item>
+        <item>Algeria (+213)</item>
+        <item>Andorra (+376)</item>
+        <item>Angola (+244)</item>
+        <item>Anguilla (+1)</item>
+        <item>Antarctica (+672)</item>
+        <item>Antigua and Barbuda (+1)</item>
+        <item>Argentina (+54)</item>
+        <item>Armenia (+374)</item>
+        <item>Aruba (+297)</item>
+        <item>Australia (+61)</item>
+        <item>Austria (+43)</item>
+        <item>Azerbaijan (+994)</item>
+        <item>Bahamas (+1)</item>
+        <item>Bahrain (+973)</item>
+        <item>Bangladesh (+880)</item>
+        <item>Barbados (+1)</item>
+        <item>Belarus (+375)</item>
+        <item>Belgium (+32)</item>
+        <item>Belize (+501)</item>
+        <item>Benin (+229)</item>
+        <item>Bermuda (+1)</item>
+        <item>Bhutan (+975)</item>
+        <item>Bolivia (+591)</item>
+        <item>Bosnia and Herzegovina (+387)</item>
+        <item>Botswana (+267)</item>
+        <item>Bouvet Island (+47)</item>
+        <item>Brazil (+55)</item>
+        <item>British Indian Ocean Territory (+246)</item>
+        <item>Brunei Darussalam (+673)</item>
+        <item>Bulgaria (+359)</item>
+        <item>Burkina Faso (+226)</item>
+        <item>Burundi (+257)</item>
+        <item>Cambodia (+855)</item>
+        <item>Cameroon (+237)</item>
+        <item>Canada (+1)</item>
+        <item>Cape Verde (+238)</item>
+        <item>Cayman Islands (+1)</item>
+        <item>Central African Republic (+236)</item>
+        <item>Chad (+235)</item>
+        <item>Chile (+56)</item>
+        <item>China (+86)</item>
+        <item>Christmas Island (+61)</item>
+        <item>Cocos (+61)</item>
+        <item>Colombia (+57)</item>
+        <item>Comoros (+269)</item>
+        <item>Congo (+243)</item>
+        <item>Congo, Republic (+242)</item>
+        <item>Cook Islands (+682)</item>
+        <item>Costa Rica (+506)</item>
+        <item>"Cote D'Ivoire (+225)"</item>
+        <item>Croatia (+385)</item>
+        <item>Cyprus (+357)</item>
+        <item>Czech Republic (+420)</item>
+        <item>Denmark (+45)</item>
+        <item>Djibouti (+253)</item>
+        <item>Dominica (+1)</item>
+        <item>Dominican Republic (+1)</item>
+        <item>Ecuador (+593)</item>
+        <item>Egypt (+20)</item>
+        <item>El Salvador (+503)</item>
+        <item>Equatorial Guinea (+240)</item>
+        <item>Eritrea (+291)</item>
+        <item>Estonia (+372)</item>
+        <item>Ethiopia (+251)</item>
+        <item>Falkland Islands (+500)</item>
+        <item>Faroe Islands (+298)</item>
+        <item>Fiji (+679)</item>
+        <item>Finland (+358)</item>
+        <item>France (+33)</item>
+        <item>French Guiana (+594)</item>
+        <item>French Polynesia (+689)</item>
+        <item>Gabon (+241)</item>
+        <item>Gambia (+220)</item>
+        <item>Georgia (+995)</item>
+        <item>Germany (+49)</item>
+        <item>Ghana (+233)</item>
+        <item>Gibraltar (+350)</item>
+        <item>Greece (+30)</item>
+        <item>Greenland (+299)</item>
+        <item>Grenada (+1)</item>
+        <item>Guadeloupe (+590)</item>
+        <item>Guam (+1)</item>
+        <item>Guatemala (+502)</item>
+        <item>Guernsey (+44)</item>
+        <item>Guinea (+224)</item>
+        <item>Guinea-Bissau (+245)</item>
+        <item>Guyana (+592)</item>
+        <item>Haiti (+509)</item>
+        <item>Holy See (+379)</item>
+        <item>Honduras (+504)</item>
+        <item>Hong Kong (+852)</item>
+        <item>Hungary (+36)</item>
+        <item>Iceland (+354)</item>
+        <item>India (+91)</item>
+        <item>Indonesia (+62)</item>
+        <item>Iran (+98)</item>
+        <item>Iraq (+964)</item>
+        <item>Ireland (+353)</item>
+        <item>Isle of Man (+44)</item>
+        <item>Israel (+972)</item>
+        <item>Italy (+39)</item>
+        <item>Jamaica (+1)</item>
+        <item>Japan (+81)</item>
+        <item>Jersey (+44)</item>
+        <item>Jordan (+962)</item>
+        <item>Kazakhstan (+7)</item>
+        <item>Kenya (+254)</item>
+        <item>Kiribati (+686)</item>
+        <item>Korea, Republic of (+82)</item>
+        <item>Kuwait (+965)</item>
+        <item>Kyrgyzstan (+996)</item>
+        <item>Lao PDR (+856)</item>
+        <item>Latvia (+371)</item>
+        <item>Lebanon (+961)</item>
+        <item>Lesotho (+266)</item>
+        <item>Liberia (+231)</item>
+        <item>Libyan Arab Jamahiriya (+218)</item>
+        <item>Liechtenstein (+423)</item>
+        <item>Lithuania (+370)</item>
+        <item>Luxembourg (+352)</item>
+        <item>Macao (+853)</item>
+        <item>Macedonia (+389)</item>
+        <item>Madagascar (+261)</item>
+        <item>Malawi (+265)</item>
+        <item>Malaysia (+60)</item>
+        <item>Maldives (+960)</item>
+        <item>Mali (+223)</item>
+        <item>Malta (+356)</item>
+        <item>Marshall Islands (+692)</item>
+        <item>Martinique (+596)</item>
+        <item>Mauritania (+222)</item>
+        <item>Mauritius (+230)</item>
+        <item>Mayotte (+269)</item>
+        <item>Mexico (+52)</item>
+        <item>Micronesia (+691)</item>
+        <item>Moldova, Republic of (+373)</item>
+        <item>Monaco (+377)</item>
+        <item>Mongolia (+976)</item>
+        <item>Montenegro (+382)</item>
+        <item>Montserrat (+1)</item>
+        <item>Morocco (+212)</item>
+        <item>Mozambique (+258)</item>
+        <item>Myanmar (+95)</item>
+        <item>Namibia (+264)</item>
+        <item>Nauru (+674)</item>
+        <item>Nepal (+977)</item>
+        <item>Netherlands (+31)</item>
+        <item>Netherlands Antilles (+599)</item>
+        <item>New Caledonia (+687)</item>
+        <item>New Zealand (+64)</item>
+        <item>Nicaragua (+505)</item>
+        <item>Niger (+227)</item>
+        <item>Nigeria (+234)</item>
+        <item>Niue (+683)</item>
+        <item>Norfolk Island (+672)</item>
+        <item>Northern Mariana Islands (+1)</item>
+        <item>Norway (+47)</item>
+        <item>Oman (+968)</item>
+        <item>Pakistan (+92)</item>
+        <item>Palau (+680)</item>
+        <item>Palestinian Territory (+970)</item>
+        <item>Panama (+507)</item>
+        <item>Papua New Guinea (+675)</item>
+        <item>Paraguay (+595)</item>
+        <item>Peru (+51)</item>
+        <item>Philippines (+63)</item>
+        <item>Pitcairn (+64)</item>
+        <item>Poland (+48)</item>
+        <item>Portugal (+351)</item>
+        <item>Puerto Rico (+1)</item>
+        <item>Qatar (+974)</item>
+        <item>Reunion (+262)</item>
+        <item>Romania (+40)</item>
+        <item>Russian Federation (+7)</item>
+        <item>Rwanda (+250)</item>
+        <item>Saint Helena (+290)</item>
+        <item>Saint Kitts and Nevis (+1)</item>
+        <item>Saint Lucia (+1)</item>
+        <item>Saint Pierre, Miquelon (+508)</item>
+        <item>Saint Vincent, Grenadines (+1)</item>
+        <item>Saint-Barths (+590)</item>
+        <item>Saint-Martin (+599)</item>
+        <item>Samoa (+685)</item>
+        <item>San Marino (+378)</item>
+        <item>Sao Tome and Principe (+239)</item>
+        <item>Saudi Arabia (+966)</item>
+        <item>Senegal (+221)</item>
+        <item>Serbia (+381)</item>
+        <item>Seychelles (+248)</item>
+        <item>Sierra Leone (+232)</item>
+        <item>Singapore (+65)</item>
+        <item>Slovakia (+421)</item>
+        <item>Slovenia (+386)</item>
+        <item>Solomon Islands (+677)</item>
+        <item>Somalia (+252)</item>
+        <item>South Africa (+27)</item>
+        <item>South Georgia (+995)</item>
+        <item>South Sudan (+211)</item>
+        <item>Spain (+34)</item>
+        <item>Sri Lanka (+94)</item>
+        <item>Suriname (+597)</item>
+        <item>Svalbard and Jan Mayen (+47)</item>
+        <item>Swaziland (+268)</item>
+        <item>Sweden (+46)</item>
+        <item>Switzerland (+41)</item>
+        <item>Taiwan (+886)</item>
+        <item>Tajikistan (+992)</item>
+        <item>Tanzania (+255)</item>
+        <item>Thailand (+66)</item>
+        <item>Timor-Leste (+670)</item>
+        <item>Togo (+228)</item>
+        <item>Tokelau (+690)</item>
+        <item>Tonga (+676)</item>
+        <item>Trinidad and Tobago (+1)</item>
+        <item>Tunisia (+216)</item>
+        <item>Turkey (+90)</item>
+        <item>Turkmenistan (+993)</item>
+        <item>Turks and Caicos Islands (+1)</item>
+        <item>Tuvalu (+688)</item>
+        <item>Uganda (+256)</item>
+        <item>Ukraine (+380)</item>
+        <item>United Arab Emirates (+971)</item>
+        <item>United Kingdom (+44)</item>
+        <item>United States (+1)</item>
+        <item>Uruguay (+598)</item>
+        <item>Uzbekistan (+998)</item>
+        <item>Vanuatu (+678)</item>
+        <item>Venezuela (+58)</item>
+        <item>Vietnam (+84)</item>
+        <item>Virgin Islands, British (+284)</item>
+        <item>Virgin Islands, U.S. (+1)</item>
+        <item>Wallis, Futuna (+681)</item>
+        <item>Western Sahara (+212)</item>
+        <item>Yemen (+967)</item>
+        <item>Zambia (+260)</item>
+        <item>Zimbabwe (+263)</item>
+    </string-array>
+    <string-array name="countrycode">
+        <item>(+1)</item>
+        <item>(+93)</item>
+        <item>(+358)</item>
+        <item>(+355)</item>
+        <item>(+213)</item>
+        <item>(+376)</item>
+        <item>(+244)</item>
+        <item>(+1)</item>
+        <item>(+672)</item>
+        <item>(+1)</item>
+        <item>(+54)</item>
+        <item>(+374)</item>
+        <item>(+297)</item>
+        <item>(+61)</item>
+        <item>(+43)</item>
+        <item>(+994)</item>
+        <item>(+1)</item>
+        <item>(+973)</item>
+        <item>(+880)</item>
+        <item>(+1)</item>
+        <item>(+375)</item>
+        <item>(+32)</item>
+        <item>(+501)</item>
+        <item>(+229)</item>
+        <item>(+1)</item>
+        <item>(+975)</item>
+        <item>(+591)</item>
+        <item>(+387)</item>
+        <item>(+267)</item>
+        <item>(+47)</item>
+        <item>(+55)</item>
+        <item>(+246)</item>
+        <item>(+673)</item>
+        <item>(+359)</item>
+        <item>(+226)</item>
+        <item>(+257)</item>
+        <item>(+855)</item>
+        <item>(+237)</item>
+        <item>(+1)</item>
+        <item>(+238)</item>
+        <item>(+1)</item>
+        <item>(+236)</item>
+        <item>(+235)</item>
+        <item>(+56)</item>
+        <item>(+86)</item>
+        <item>(+61)</item>
+        <item>(+61)</item>
+        <item>(+57)</item>
+        <item>(+269)</item>
+        <item>(+243)</item>
+        <item>(+242)</item>
+        <item>(+682)</item>
+        <item>(+506)</item>
+        <item>(+225)</item>
+        <item>(+385)</item>
+        <item>(+357)</item>
+        <item>(+420)</item>
+        <item>(+45)</item>
+        <item>(+253)</item>
+        <item>(+1)</item>
+        <item>(+1)</item>
+        <item>(+593)</item>
+        <item>(+20)</item>
+        <item>(+503)</item>
+        <item>(+240)</item>
+        <item>(+291)</item>
+        <item>(+372)</item>
+        <item>(+251)</item>
+        <item>(+500)</item>
+        <item>(+298)</item>
+        <item>(+679)</item>
+        <item>(+358)</item>
+        <item>(+33)</item>
+        <item>(+594)</item>
+        <item>(+689)</item>
+        <item>(+241)</item>
+        <item>(+220)</item>
+        <item>(+995)</item>
+        <item>(+49)</item>
+        <item>(+233)</item>
+        <item>(+350)</item>
+        <item>(+30)</item>
+        <item>(+299)</item>
+        <item>(+1)</item>
+        <item>(+590)</item>
+        <item>(+1)</item>
+        <item>(+502)</item>
+        <item>(+44)</item>
+        <item>(+224)</item>
+        <item>(+245)</item>
+        <item>(+592)</item>
+        <item>(+509)</item>
+        <item>(+379)</item>
+        <item>(+504)</item>
+        <item>(+852)</item>
+        <item>(+36)</item>
+        <item>(+354)</item>
+        <item>(+91)</item>
+        <item>(+62)</item>
+        <item>(+98)</item>
+        <item>(+964)</item>
+        <item>(+353)</item>
+        <item>(+44)</item>
+        <item>(+972)</item>
+        <item>(+39)</item>
+        <item>(+1)</item>
+        <item>(+81)</item>
+        <item>(+44)</item>
+        <item>(+962)</item>
+        <item>(+7)</item>
+        <item>(+254)</item>
+        <item>(+686)</item>
+        <item>(+82)</item>
+        <item>(+965)</item>
+        <item>(+996)</item>
+        <item>(+856)</item>
+        <item>(+371)</item>
+        <item>(+961)</item>
+        <item>(+266)</item>
+        <item>(+231)</item>
+        <item>(+218)</item>
+        <item>(+423)</item>
+        <item>(+370)</item>
+        <item>(+352)</item>
+        <item>(+853)</item>
+        <item>(+389)</item>
+        <item>(+261)</item>
+        <item>(+265)</item>
+        <item>(+60)</item>
+        <item>(+960)</item>
+        <item>(+223)</item>
+        <item>(+356)</item>
+        <item>(+692)</item>
+        <item>(+596)</item>
+        <item>(+222)</item>
+        <item>(+230)</item>
+        <item>(+269)</item>
+        <item>(+52)</item>
+        <item>(+691)</item>
+        <item>(+373)</item>
+        <item>(+377)</item>
+        <item>(+976)</item>
+        <item>(+382)</item>
+        <item>(+1)</item>
+        <item>(+212)</item>
+        <item>(+258)</item>
+        <item>(+95)</item>
+        <item>(+264)</item>
+        <item>(+674)</item>
+        <item>(+977)</item>
+        <item>(+31)</item>
+        <item>(+599)</item>
+        <item>(+687)</item>
+        <item>(+64)</item>
+        <item>(+505)</item>
+        <item>(+227)</item>
+        <item>(+234)</item>
+        <item>(+683)</item>
+        <item>(+672)</item>
+        <item>(+1)</item>
+        <item>(+47)</item>
+        <item>(+968)</item>
+        <item>(+92)</item>
+        <item>(+680)</item>
+        <item>(+970)</item>
+        <item>(+507)</item>
+        <item>(+675)</item>
+        <item>(+595)</item>
+        <item>(+51)</item>
+        <item>(+63)</item>
+        <item>(+64)</item>
+        <item>(+48)</item>
+        <item>(+351)</item>
+        <item>(+1)</item>
+        <item>(+974)</item>
+        <item>(+262)</item>
+        <item>(+40)</item>
+        <item>(+7)</item>
+        <item>(+250)</item>
+        <item>(+290)</item>
+        <item>(+1)</item>
+        <item>(+1)</item>
+        <item>(+508)</item>
+        <item>(+1)</item>
+        <item>(+590)</item>
+        <item>(+599)</item>
+        <item>(+685)</item>
+        <item>(+378)</item>
+        <item>(+239)</item>
+        <item>(+966)</item>
+        <item>(+221)</item>
+        <item>(+381)</item>
+        <item>(+248)</item>
+        <item>(+232)</item>
+        <item>(+65)</item>
+        <item>(+421)</item>
+        <item>(+386)</item>
+        <item>(+677)</item>
+        <item>(+252)</item>
+        <item>(+27)</item>
+        <item>(+995)</item>
+        <item>(+211)</item>
+        <item>(+34)</item>
+        <item>(+94)</item>
+        <item>(+597)</item>
+        <item>(+47)</item>
+        <item>(+268)</item>
+        <item>(+46)</item>
+        <item>(+41)</item>
+        <item>(+886)</item>
+        <item>(+992)</item>
+        <item>(+255)</item>
+        <item>(+66)</item>
+        <item>(+670)</item>
+        <item>(+228)</item>
+        <item>(+690)</item>
+        <item>(+676)</item>
+        <item>(+1)</item>
+        <item>(+216)</item>
+        <item>(+90)</item>
+        <item>(+993)</item>
+        <item>(+1)</item>
+        <item>(+688)</item>
+        <item>(+256)</item>
+        <item>(+380)</item>
+        <item>(+971)</item>
+        <item>(+44)</item>
+        <item>(+1)</item>
+        <item>(+598)</item>
+        <item>(+998)</item>
+        <item>(+678)</item>
+        <item>(+58)</item>
+        <item>(+84)</item>
+        <item>(+284)</item>
+        <item>(+1)</item>
+        <item>(+681)</item>
+        <item>(+212)</item>
+        <item>(+967)</item>
+        <item>(+260)</item>
+        <item>(+263)</item>
+    </string-array>
+    <string-array name="smiley">
+        <item>e415</item>
+        <item>e056</item>
+        <item>e057</item>
+        <item>e414</item>
+        <item>e405</item>
+        <item>e106</item>
+        <item>e418</item>
+        <item>e417</item>
+        <item>e40d</item>
+        <item>e40a</item>
+        <item>e404</item>
+        <item>e105</item>
+        <item>e409</item>
+        <item>e40e</item>
+        <item>e402</item>
+        <item>e108</item>
+        <item>e403</item>
+        <item>e058</item>
+        <item>e407</item>
+        <item>e401</item>
+        <item>e40f</item>
+        <item>e40b</item>
+        <item>e406</item>
+        <item>e413</item>
+        <item>e411</item>
+        <item>e412</item>
+        <item>e410</item>
+        <item>e107</item>
+        <item>e059</item>
+        <item>e416</item>
+        <item>e408</item>
+        <item>e40c</item>
+        <item>em_1f600</item>
+        <item>em_1f605</item>
+        <item>em_1f606</item>
+        <item>em_1f607</item>
+        <item>em_1f608</item>
+        <item>em_1f60b</item>
+        <item>em_1f60e</item>
+        <item>em_1f610</item>
+        <item>em_1f611</item>
+        <item>em_1f615</item>
+        <item>em_1f617</item>
+        <item>em_1f619</item>
+        <item>em_1f61b</item>
+        <item>em_1f61f</item>
+        <item>em_1f624</item>
+        <item>em_1f626</item>
+        <item>em_1f627</item>
+        <item>em_1f629</item>
+        <item>em_1f62b</item>
+        <item>em_1f62c</item>
+        <item>em_1f62e</item>
+        <item>em_1f62f</item>
+        <item>em_1f634</item>
+        <item>em_1f635</item>
+        <item>em_1f636</item>
+        <item>em_1f638</item>
+        <item>em_1f639</item>
+        <item>em_1f63a</item>
+        <item>em_1f63b</item>
+        <item>em_1f63c</item>
+        <item>em_1f63d</item>
+        <item>em_1f63e</item>
+        <item>em_1f63f</item>
+        <item>em_1f640</item>
+        <item>em_1f648</item>
+        <item>em_1f649</item>
+        <item>em_1f64a</item>
+        <item>em_1f64b</item>
+        <item>em_1f64d</item>
+        <item>em_1f64e</item>
+        <item>e11a</item>
+        <item>e10c</item>
+        <item>e32c</item>
+        <item>e32a</item>
+        <item>e32d</item>
+        <item>e328</item>
+        <item>e32b</item>
+        <item>e022</item>
+        <item>e023</item>
+        <item>e327</item>
+        <item>e329</item>
+        <item>e32e</item>
+        <item>e335</item>
+        <item>e334</item>
+        <item>e337</item>
+        <item>e336</item>
+        <item>e13c</item>
+        <item>e330</item>
+        <item>e331</item>
+        <item>e326</item>
+        <item>e03e</item>
+        <item>e11d</item>
+        <item>e05a</item>
+        <item>e00e</item>
+        <item>e421</item>
+        <item>e420</item>
+        <item>e00d</item>
+        <item>e010</item>
+        <item>e011</item>
+        <item>e41e</item>
+        <item>e012</item>
+        <item>e422</item>
+        <item>e22e</item>
+        <item>e22f</item>
+        <item>e231</item>
+        <item>e230</item>
+        <item>e427</item>
+        <item>e41d</item>
+        <item>e00f</item>
+        <item>e41f</item>
+        <item>e14c</item>
+        <item>e201</item>
+        <item>e115</item>
+        <item>e428</item>
+        <item>e51f</item>
+        <item>e429</item>
+        <item>e424</item>
+        <item>e423</item>
+        <item>e253</item>
+        <item>e426</item>
+        <item>e111</item>
+        <item>e425</item>
+        <item>e31e</item>
+        <item>e31f</item>
+        <item>e31d</item>
+        <item>e001</item>
+        <item>e002</item>
+        <item>e005</item>
+        <item>e004</item>
+        <item>e51a</item>
+        <item>e519</item>
+        <item>e518</item>
+        <item>e515</item>
+        <item>e516</item>
+        <item>e517</item>
+        <item>e51b</item>
+        <item>e152</item>
+        <item>e04e</item>
+        <item>e51c</item>
+        <item>e51e</item>
+        <item>e11c</item>
+        <item>e536</item>
+        <item>e003</item>
+        <item>e41c</item>
+        <item>e41b</item>
+        <item>e419</item>
+        <item>e41a</item>
+        <item>em_1f445</item>
+        <item>em_1f453</item>
+        <item>em_1f456</item>
+        <item>em_1f45a</item>
+        <item>em_1f45b</item>
+        <item>em_1f45d</item>
+        <item>em_1f45e</item>
+        <item>em_1f464</item>
+        <item>em_1f465</item>
+        <item>em_1f46a</item>
+        <item>em_1f46c</item>
+        <item>em_1f46d</item>
+        <item>em_1f470</item>
+        <item>em_1f479</item>
+        <item>em_1f47a</item>
+        <item>em_1f48c</item>
+        <item>em_1f495</item>
+        <item>em_1f496</item>
+        <item>em_1f49e</item>
+        <item>em_1f4a0</item>
+        <item>em_1f4a5</item>
+        <item>em_1f4a7</item>
+        <item>em_1f4ab</item>
+        <item>em_1f4ac</item>
+        <item>em_1f4ad</item>
+    </string-array>
+    <string-array name="flower">
+        <item>em_1f400</item>
+        <item>em_1f401</item>
+        <item>em_1f402</item>
+        <item>em_1f403</item>
+        <item>em_1f404</item>
+        <item>em_1f405</item>
+        <item>em_1f406</item>
+        <item>em_1f407</item>
+        <item>em_1f408</item>
+        <item>em_1f409</item>
+        <item>em_1f40a</item>
+        <item>em_1f40b</item>
+        <item>em_1f40c</item>
+        <item>em_1f40f</item>
+        <item>em_1f410</item>
+        <item>em_1f413</item>
+        <item>em_1f415</item>
+        <item>em_1f416</item>
+        <item>em_1f41c</item>
+        <item>em_1f41d</item>
+        <item>em_1f41e</item>
+        <item>em_1f421</item>
+        <item>em_1f422</item>
+        <item>em_1f423</item>
+        <item>em_1f425</item>
+        <item>em_1f429</item>
+        <item>em_1f42a</item>
+        <item>em_1f432</item>
+        <item>em_1f43c</item>
+        <item>em_1f43d</item>
+        <item>em_1f43e</item>
+        <item>e04a</item>
+        <item>e04b</item>
+        <item>e049</item>
+        <item>e048</item>
+        <item>e04c</item>
+        <item>e13d</item>
+        <item>e443</item>
+        <item>e43e</item>
+        <item>e04f</item>
+        <item>e052</item>
+        <item>e053</item>
+        <item>e524</item>
+        <item>e52c</item>
+        <item>e52a</item>
+        <item>e531</item>
+        <item>e050</item>
+        <item>e527</item>
+        <item>e051</item>
+        <item>e10b</item>
+        <item>e52b</item>
+        <item>e52f</item>
+        <item>e109</item>
+        <item>e528</item>
+        <item>e01a</item>
+        <item>e134</item>
+        <item>e530</item>
+        <item>e529</item>
+        <item>e526</item>
+        <item>e52d</item>
+        <item>e521</item>
+        <item>e523</item>
+        <item>e52e</item>
+        <item>e055</item>
+        <item>e525</item>
+        <item>e10a</item>
+        <item>e522</item>
+        <item>e019</item>
+        <item>e054</item>
+        <item>e520</item>
+        <item>e306</item>
+        <item>e030</item>
+        <item>e304</item>
+        <item>e110</item>
+        <item>e032</item>
+        <item>e305</item>
+        <item>e303</item>
+        <item>e118</item>
+        <item>e447</item>
+        <item>e119</item>
+        <item>e307</item>
+        <item>e308</item>
+        <item>e444</item>
+        <item>e441</item>
+        <item>em_1f30d</item>
+        <item>em_1f30e</item>
+        <item>em_1f30f</item>
+        <item>em_1f310</item>
+        <item>em_1f311</item>
+        <item>em_1f312</item>
+        <item>em_1f313</item>
+        <item>em_1f314</item>
+        <item>em_1f315</item>
+        <item>em_1f316</item>
+        <item>em_1f317</item>
+        <item>em_1f318</item>
+        <item>em_1f31a</item>
+        <item>em_1f31b</item>
+        <item>em_1f31c</item>
+        <item>em_1f31d</item>
+        <item>em_1f31e</item>
+        <item>em_1f320</item>
+        <item>em_1f330</item>
+        <item>em_1f331</item>
+        <item>em_1f332</item>
+        <item>em_1f333</item>
+    </string-array>
+    <string-array name="bell">
+        <item>e436</item>
+        <item>e437</item>
+        <item>e438</item>
+        <item>e43a</item>
+        <item>e439</item>
+        <item>e43b</item>
+        <item>e117</item>
+        <item>e440</item>
+        <item>e442</item>
+        <item>e446</item>
+        <item>e445</item>
+        <item>e11b</item>
+        <item>e448</item>
+        <item>e033</item>
+        <item>e112</item>
+        <item>e325</item>
+        <item>e312</item>
+        <item>e310</item>
+        <item>e126</item>
+        <item>e127</item>
+        <item>e008</item>
+        <item>e03d</item>
+        <item>e00c</item>
+        <item>e12a</item>
+        <item>e00a</item>
+        <item>e00b</item>
+        <item>e009</item>
+        <item>e316</item>
+        <item>e129</item>
+        <item>e141</item>
+        <item>e142</item>
+        <item>e317</item>
+        <item>e128</item>
+        <item>e14b</item>
+        <item>e211</item>
+        <item>e114</item>
+        <item>e145</item>
+        <item>e144</item>
+        <item>e03f</item>
+        <item>e313</item>
+        <item>e116</item>
+        <item>e10f</item>
+        <item>e104</item>
+        <item>e103</item>
+        <item>e101</item>
+        <item>e102</item>
+        <item>e13f</item>
+        <item>e140</item>
+        <item>e11f</item>
+        <item>e12f</item>
+        <item>e031</item>
+        <item>e30e</item>
+        <item>e311</item>
+        <item>e113</item>
+        <item>e30f</item>
+        <item>e13b</item>
+        <item>e42b</item>
+        <item>e42a</item>
+        <item>e018</item>
+        <item>e016</item>
+        <item>e015</item>
+        <item>e014</item>
+        <item>e42c</item>
+        <item>e42d</item>
+        <item>e017</item>
+        <item>e013</item>
+        <item>e20e</item>
+        <item>e20c</item>
+        <item>e20f</item>
+        <item>e20d</item>
+        <item>e131</item>
+        <item>e12b</item>
+        <item>e130</item>
+        <item>e12d</item>
+        <item>e324</item>
+        <item>e301</item>
+        <item>e148</item>
+        <item>e502</item>
+        <item>e03c</item>
+        <item>e30a</item>
+        <item>e042</item>
+        <item>e040</item>
+        <item>e041</item>
+        <item>e12c</item>
+        <item>e007</item>
+        <item>e31a</item>
+        <item>e13e</item>
+        <item>e31b</item>
+        <item>e006</item>
+        <item>e302</item>
+        <item>e319</item>
+        <item>e321</item>
+        <item>e322</item>
+        <item>e314</item>
+        <item>e503</item>
+        <item>e10e</item>
+        <item>e318</item>
+        <item>e43c</item>
+        <item>e11e</item>
+        <item>e323</item>
+        <item>e31c</item>
+        <item>e034</item>
+        <item>e035</item>
+        <item>e045</item>
+        <item>e338</item>
+        <item>e047</item>
+        <item>e30c</item>
+        <item>e044</item>
+        <item>e30b</item>
+        <item>e043</item>
+        <item>e120</item>
+        <item>e33b</item>
+        <item>e33f</item>
+        <item>e341</item>
+        <item>e34c</item>
+        <item>e344</item>
+        <item>e342</item>
+        <item>e33d</item>
+        <item>e33e</item>
+        <item>e340</item>
+        <item>e34d</item>
+        <item>e339</item>
+        <item>e147</item>
+        <item>e343</item>
+        <item>e33c</item>
+        <item>e33a</item>
+        <item>e43f</item>
+        <item>e34b</item>
+        <item>e046</item>
+        <item>e345</item>
+        <item>e346</item>
+        <item>e348</item>
+        <item>e347</item>
+        <item>e34a</item>
+        <item>e349</item>
+        <item>em_1f0cf</item>
+        <item>em_1f33c</item>
+        <item>em_1f33d</item>
+        <item>em_1f33f</item>
+        <item>em_1f344</item>
+        <item>em_1f347</item>
+        <item>em_1f348</item>
+        <item>em_1f34b</item>
+        <item>em_1f34c</item>
+        <item>em_1f34d</item>
+        <item>em_1f34f</item>
+        <item>em_1f350</item>
+        <item>em_1f351</item>
+        <item>em_1f352</item>
+        <item>em_1f355</item>
+        <item>em_1f356</item>
+        <item>em_1f357</item>
+        <item>em_1f360</item>
+        <item>em_1f364</item>
+        <item>em_1f365</item>
+        <item>em_1f368</item>
+        <item>em_1f369</item>
+        <item>em_1f36a</item>
+        <item>em_1f36b</item>
+        <item>em_1f36c</item>
+        <item>em_1f36d</item>
+        <item>em_1f36e</item>
+        <item>em_1f36f</item>
+        <item>em_1f377</item>
+        <item>em_1f379</item>
+        <item>em_1f37c</item>
+        <item>em_1f38a</item>
+        <item>em_1f38b</item>
+        <item>em_1f3a3</item>
+        <item>em_1f3aa</item>
+        <item>em_1f3ad</item>
+        <item>em_1f3ae</item>
+        <item>em_1f3b2</item>
+        <item>em_1f3b3</item>
+        <item>em_1f3b4</item>
+        <item>em_1f3b9</item>
+        <item>em_1f3bb</item>
+        <item>em_1f3bc</item>
+        <item>em_1f3bd</item>
+        <item>em_1f3c2</item>
+        <item>em_1f3c7</item>
+        <item>em_1f3c9</item>
+        <item>em_1f3e1</item>
+        <item>em_1f3e4</item>
+        <item>em_1f3ee</item>
+        <item>em_1f4ae</item>
+        <item>em_1f4af</item>
+        <item>em_1f4b2</item>
+        <item>em_1f4b3</item>
+        <item>em_1f4b4</item>
+        <item>em_1f4b5</item>
+        <item>em_1f4b6</item>
+        <item>em_1f4b7</item>
+        <item>em_1f4b8</item>
+        <item>em_1f4be</item>
+        <item>em_1f4c1</item>
+        <item>em_1f4c2</item>
+        <item>em_1f4c3</item>
+        <item>em_1f4c4</item>
+        <item>em_1f4c5</item>
+        <item>em_1f4c6</item>
+        <item>em_1f4c7</item>
+        <item>em_1f4c8</item>
+        <item>em_1f4c9</item>
+        <item>em_1f4ca</item>
+        <item>em_1f4cb</item>
+        <item>em_1f4cc</item>
+        <item>em_1f4cd</item>
+        <item>em_1f4ce</item>
+        <item>em_1f4cf</item>
+        <item>em_1f4d0</item>
+        <item>em_1f4d1</item>
+        <item>em_1f4d2</item>
+        <item>em_1f4d3</item>
+        <item>em_1f4d4</item>
+        <item>em_1f4d5</item>
+        <item>em_1f4d7</item>
+        <item>em_1f4d8</item>
+        <item>em_1f4d9</item>
+        <item>em_1f4da</item>
+        <item>em_1f4db</item>
+        <item>em_1f4dc</item>
+        <item>em_1f4de</item>
+        <item>em_1f4df</item>
+        <item>em_1f4e4</item>
+        <item>em_1f4e5</item>
+        <item>em_1f4e6</item>
+        <item>em_1f4e7</item>
+        <item>em_1f4e8</item>
+        <item>em_1f4ea</item>
+        <item>em_1f4ec</item>
+        <item>em_1f4ed</item>
+        <item>em_1f4ef</item>
+        <item>em_1f4f0</item>
+        <item>em_1f4f5</item>
+        <item>em_1f4f9</item>
+        <item>em_1f507</item>
+        <item>em_1f508</item>
+        <item>em_1f509</item>
+        <item>em_1f50b</item>
+        <item>em_1f50c</item>
+        <item>em_1f50e</item>
+        <item>em_1f50f</item>
+        <item>em_1f510</item>
+        <item>em_1f515</item>
+        <item>em_1f516</item>
+        <item>em_1f517</item>
+        <item>em_1f518</item>
+    </string-array>
+    <string-array name="vehicle">
+        <item>em_1f301</item>
+        <item>em_1f309</item>
+        <item>em_1f30b</item>
+        <item>em_1f30c</item>
+        <item>em_1f3a0</item>
+        <item>em_1f5fe</item>
+        <item>e036</item>
+        <item>e157</item>
+        <item>e038</item>
+        <item>e153</item>
+        <item>e155</item>
+        <item>e14d</item>
+        <item>e156</item>
+        <item>e501</item>
+        <item>e158</item>
+        <item>e43d</item>
+        <item>e037</item>
+        <item>e504</item>
+        <item>e44a</item>
+        <item>e146</item>
+        <item>e154</item>
+        <item>e505</item>
+        <item>e506</item>
+        <item>e122</item>
+        <item>e508</item>
+        <item>e509</item>
+        <item>e03b</item>
+        <item>e04d</item>
+        <item>e449</item>
+        <item>e44b</item>
+        <item>e51d</item>
+        <item>e44c</item>
+        <item>e124</item>
+        <item>e121</item>
+        <item>em_1f5ff</item>
+        <item>em_1f681</item>
+        <item>em_1f682</item>
+        <item>em_1f686</item>
+        <item>em_1f688</item>
+        <item>em_1f68a</item>
+        <item>em_1f68b</item>
+        <item>em_1f68d</item>
+        <item>em_1f68e</item>
+        <item>em_1f690</item>
+        <item>em_1f694</item>
+        <item>em_1f696</item>
+        <item>em_1f698</item>
+        <item>em_1f69b</item>
+        <item>em_1f69c</item>
+        <item>em_1f69d</item>
+        <item>em_1f69e</item>
+        <item>em_1f69f</item>
+        <item>em_1f6a0</item>
+        <item>em_1f6a1</item>
+        <item>em_1f6a3</item>
+        <item>e433</item>
+        <item>e202</item>
+        <item>e135</item>
+        <item>e01c</item>
+        <item>e01d</item>
+        <item>e10d</item>
+        <item>e136</item>
+        <item>e42e</item>
+        <item>e01b</item>
+        <item>e15a</item>
+        <item>e159</item>
+        <item>e432</item>
+        <item>e430</item>
+        <item>e431</item>
+        <item>e42f</item>
+        <item>e01e</item>
+        <item>e039</item>
+        <item>e435</item>
+        <item>e01f</item>
+        <item>e125</item>
+        <item>e03a</item>
+        <item>e14e</item>
+        <item>e252</item>
+        <item>e137</item>
+        <item>e209</item>
+        <item>e133</item>
+        <item>e150</item>
+        <item>e320</item>
+        <item>e123</item>
+        <item>e132</item>
+        <item>e143</item>
+        <item>e50b</item>
+        <item>e514</item>
+        <item>e513</item>
+        <item>e50c</item>
+        <item>e50d</item>
+        <item>e511</item>
+        <item>e50f</item>
+        <item>e512</item>
+        <item>e510</item>
+        <item>e50e</item>
+    </string-array>
+    <string-array name="number">
+        <item>e21c</item>
+        <item>e21d</item>
+        <item>e21e</item>
+        <item>e21f</item>
+        <item>e220</item>
+        <item>e221</item>
+        <item>e222</item>
+        <item>e223</item>
+        <item>e224</item>
+        <item>e225</item>
+        <item>em_1f51f</item>
+        <item>em_1f520</item>
+        <item>em_1f521</item>
+        <item>em_1f522</item>
+        <item>em_1f523</item>
+        <item>em_1f524</item>
+        <item>e210</item>
+        <item>e232</item>
+        <item>e233</item>
+        <item>e235</item>
+        <item>e234</item>
+        <item>e236</item>
+        <item>e237</item>
+        <item>e238</item>
+        <item>e239</item>
+        <item>e23b</item>
+        <item>e23a</item>
+        <item>e23d</item>
+        <item>e23c</item>
+        <item>e24d</item>
+        <item>e212</item>
+        <item>e24c</item>
+        <item>e213</item>
+        <item>e214</item>
+        <item>e507</item>
+        <item>e203</item>
+        <item>e20b</item>
+        <item>e22a</item>
+        <item>e22b</item>
+        <item>e226</item>
+        <item>e227</item>
+        <item>e22c</item>
+        <item>e22d</item>
+        <item>e215</item>
+        <item>e216</item>
+        <item>e217</item>
+        <item>e218</item>
+        <item>e228</item>
+        <item>e151</item>
+        <item>e138</item>
+        <item>e139</item>
+        <item>e13a</item>
+        <item>e208</item>
+        <item>e14f</item>
+        <item>e20a</item>
+        <item>e434</item>
+        <item>e309</item>
+        <item>e315</item>
+        <item>e30d</item>
+        <item>e207</item>
+        <item>e229</item>
+        <item>e206</item>
+        <item>e205</item>
+        <item>e204</item>
+        <item>e12e</item>
+        <item>e250</item>
+        <item>e251</item>
+        <item>e14a</item>
+        <item>e149</item>
+        <item>e23f</item>
+        <item>e240</item>
+        <item>e241</item>
+        <item>e242</item>
+        <item>e243</item>
+        <item>e244</item>
+        <item>e245</item>
+        <item>e246</item>
+        <item>e247</item>
+        <item>e248</item>
+        <item>e249</item>
+        <item>e24a</item>
+        <item>e24b</item>
+        <item>e23e</item>
+        <item>e532</item>
+        <item>e533</item>
+        <item>e534</item>
+        <item>e535</item>
+        <item>e21a</item>
+        <item>e219</item>
+        <item>e21b</item>
+        <item>e02f</item>
+        <item>e024</item>
+        <item>e025</item>
+        <item>e026</item>
+        <item>e027</item>
+        <item>e028</item>
+        <item>e029</item>
+        <item>e02a</item>
+        <item>e02b</item>
+        <item>e02c</item>
+        <item>e02d</item>
+        <item>e02e</item>
+        <item>e332</item>
+        <item>e333</item>
+        <item>e24e</item>
+        <item>e24f</item>
+        <item>e537</item>
+        <item>em_1f191</item>
+        <item>em_1f193</item>
+        <item>em_1f196</item>
+        <item>em_1f198</item>
+        <item>em_1f232</item>
+        <item>em_1f234</item>
+        <item>em_1f251</item>
+        <item>em_1f500</item>
+        <item>em_1f501</item>
+        <item>em_1f502</item>
+        <item>em_1f503</item>
+        <item>em_1f504</item>
+        <item>em_1f505</item>
+        <item>em_1f506</item>
+        <item>em_1f53c</item>
+        <item>em_1f53d</item>
+        <item>em_1f55c</item>
+        <item>em_1f55d</item>
+        <item>em_1f55e</item>
+        <item>em_1f55f</item>
+        <item>em_1f560</item>
+        <item>em_1f561</item>
+        <item>em_1f562</item>
+        <item>em_1f563</item>
+        <item>em_1f564</item>
+        <item>em_1f565</item>
+        <item>em_1f566</item>
+        <item>em_1f567</item>
+        <item>em_1f6ae</item>
+        <item>em_2139</item>
+        <item>em_2194</item>
+        <item>em_2195</item>
+        <item>em_21a9</item>
+        <item>em_21aa</item>
+        <item>em_231a</item>
+        <item>em_231b</item>
+        <item>em_23eb</item>
+        <item>em_23ec</item>
+        <item>em_2934</item>
+        <item>em_2935</item>
+        <item>em_2b1b</item>
+        <item>em_2b1c</item>
+        <item>em_3030</item>
+        <item>em_1f519</item>
+        <item>em_1f51a</item>
+        <item>em_1f51b</item>
+        <item>em_1f51c</item>
+        <item>em_1f526</item>
+        <item>em_1f527</item>
+        <item>em_1f529</item>
+        <item>em_1f52a</item>
+        <item>em_1f52c</item>
+        <item>em_1f52d</item>
+        <item>em_1f52e</item>
+        <item>em_1f535</item>
+        <item>em_1f536</item>
+        <item>em_1f537</item>
+        <item>em_1f538</item>
+        <item>em_1f539</item>
+        <item>em_1f53a</item>
+        <item>em_1f53b</item>
+        <item>em_1f6a6</item>
+        <item>em_1f6a8</item>
+        <item>em_1f6a9</item>
+        <item>em_1f6aa</item>
+        <item>em_1f6ab</item>
+        <item>em_1f6af</item>
+        <item>em_1f6b0</item>
+        <item>em_1f6b1</item>
+        <item>em_1f6b3</item>
+        <item>em_1f6b4</item>
+        <item>em_1f6b5</item>
+        <item>em_1f6b7</item>
+        <item>em_1f6b8</item>
+        <item>em_1f6bf</item>
+        <item>em_1f6c1</item>
+        <item>em_1f6c2</item>
+        <item>em_1f6c3</item>
+        <item>em_1f6c4</item>
+        <item>em_1f6c5</item>
+        <item>em_203c</item>
+        <item>em_2049</item>
+        <item>em_23f0</item>
+        <item>em_23f3</item>
+        <item>em_24c2</item>
+        <item>em_25aa</item>
+        <item>em_25ab</item>
+        <item>em_25fb</item>
+        <item>em_25fc</item>
+        <item>em_25fd</item>
+        <item>em_25fe</item>
+        <item>em_2611</item>
+        <item>em_267b</item>
+        <item>em_2693</item>
+        <item>em_26aa</item>
+        <item>em_26ab</item>
+        <item>em_26c5</item>
+        <item>em_26d4</item>
+        <item>em_2705</item>
+        <item>em_2709</item>
+        <item>em_270f</item>
+        <item>em_2712</item>
+        <item>em_2714</item>
+        <item>em_2716</item>
+        <item>em_2744</item>
+        <item>em_2747</item>
+        <item>em_274e</item>
+        <item>em_2795</item>
+        <item>em_2796</item>
+        <item>em_2797</item>
+        <item>em_27b0</item>
+    </string-array>
+    <integer-array name="e020">
+        <item>0x2753</item>
+    </integer-array>
+    <integer-array name="e021">
+        <item>0x2757</item>
+    </integer-array>
+    <integer-array name="e32f">
+        <item>0x2b50</item>
+    </integer-array>
+    <integer-array name="e50a">
+        <item>0x1f52b</item>
+    </integer-array>
+    <integer-array name="e001">
+        <item>0x1f466</item>
+    </integer-array>
+    <integer-array name="e002">
+        <item>0x1f467</item>
+    </integer-array>
+    <integer-array name="e003">
+        <item>0x1f48b</item>
+    </integer-array>
+    <integer-array name="e004">
+        <item>0x1f468</item>
+    </integer-array>
+    <integer-array name="e005">
+        <item>0x1f469</item>
+    </integer-array>
+    <integer-array name="e006">
+        <item>0x1f455</item>
+    </integer-array>
+    <integer-array name="e007">
+        <item>0x1f45f</item>
+    </integer-array>
+    <integer-array name="e008">
+        <item>0x1f4f7</item>
+    </integer-array>
+    <integer-array name="e009">
+        <item>0x260e</item>
+    </integer-array>
+    <integer-array name="e00a">
+        <item>0x1f4f1</item>
+    </integer-array>
+    <integer-array name="e00b">
+        <item>0x1f4e0</item>
+    </integer-array>
+    <integer-array name="e00c">
+        <item>0x1f4bb</item>
+    </integer-array>
+    <integer-array name="e00d">
+        <item>0x1f44a</item>
+    </integer-array>
+    <integer-array name="e00e">
+        <item>0x1f44d</item>
+    </integer-array>
+    <integer-array name="e00f">
+        <item>0x261d</item>
+    </integer-array>
+    <integer-array name="e010">
+        <item>0x270a</item>
+    </integer-array>
+    <integer-array name="e011">
+        <item>0x270c</item>
+    </integer-array>
+    <integer-array name="e012">
+        <item>0x270b</item>
+    </integer-array>
+    <integer-array name="e013">
+        <item>0x1f3bf</item>
+    </integer-array>
+    <integer-array name="e014">
+        <item>0x26f3</item>
+    </integer-array>
+    <integer-array name="e015">
+        <item>0x1f3be</item>
+    </integer-array>
+    <integer-array name="e016">
+        <item>0x26be</item>
+    </integer-array>
+    <integer-array name="e017">
+        <item>0x1f3c4</item>
+    </integer-array>
+    <integer-array name="e018">
+        <item>0x26bd</item>
+    </integer-array>
+    <integer-array name="e019">
+        <item>0x1f41f</item>
+    </integer-array>
+    <integer-array name="e01a">
+        <item>0x1f434</item>
+    </integer-array>
+    <integer-array name="e01b">
+        <item>0x1f697</item>
+    </integer-array>
+    <integer-array name="e01c">
+        <item>0x26f5</item>
+    </integer-array>
+    <integer-array name="e01d">
+        <item>0x2708</item>
+    </integer-array>
+    <integer-array name="e01e">
+        <item>0x1f683</item>
+    </integer-array>
+    <integer-array name="e01f">
+        <item>0x1f685</item>
+    </integer-array>
+    <integer-array name="e022">
+        <item>0x2764</item>
+    </integer-array>
+    <integer-array name="e023">
+        <item>0x1f494</item>
+    </integer-array>
+    <integer-array name="e024">
+        <item>0x1f550</item>
+    </integer-array>
+    <integer-array name="e025">
+        <item>0x1f551</item>
+    </integer-array>
+    <integer-array name="e026">
+        <item>0x1f552</item>
+    </integer-array>
+    <integer-array name="e027">
+        <item>0x1f553</item>
+    </integer-array>
+    <integer-array name="e028">
+        <item>0x1f554</item>
+    </integer-array>
+    <integer-array name="e029">
+        <item>0x1f555</item>
+    </integer-array>
+    <integer-array name="e02a">
+        <item>0x1f556</item>
+    </integer-array>
+    <integer-array name="e02b">
+        <item>0x1f557</item>
+    </integer-array>
+    <integer-array name="e02c">
+        <item>0x1f558</item>
+    </integer-array>
+    <integer-array name="e02d">
+        <item>0x1f559</item>
+    </integer-array>
+    <integer-array name="e02e">
+        <item>0x1f55a</item>
+    </integer-array>
+    <integer-array name="e02f">
+        <item>0x1f55b</item>
+    </integer-array>
+    <integer-array name="e030">
+        <item>0x1f338</item>
+    </integer-array>
+    <integer-array name="e031">
+        <item>0x1f531</item>
+    </integer-array>
+    <integer-array name="e032">
+        <item>0x1f339</item>
+    </integer-array>
+    <integer-array name="e033">
+        <item>0x1f384</item>
+    </integer-array>
+    <integer-array name="e034">
+        <item>0x1f48d</item>
+    </integer-array>
+    <integer-array name="e035">
+        <item>0x1f48e</item>
+    </integer-array>
+    <integer-array name="e036">
+        <item>0x1f3e0</item>
+    </integer-array>
+    <integer-array name="e037">
+        <item>0x26ea</item>
+    </integer-array>
+    <integer-array name="e038">
+        <item>0x1f3e2</item>
+    </integer-array>
+    <integer-array name="e039">
+        <item>0x1f689</item>
+    </integer-array>
+    <integer-array name="e03a">
+        <item>0x26fd</item>
+    </integer-array>
+    <integer-array name="e03b">
+        <item>0x1f5fb</item>
+    </integer-array>
+    <integer-array name="e03c">
+        <item>0x1f3a4</item>
+    </integer-array>
+    <integer-array name="e03d">
+        <item>0x1f3a5</item>
+    </integer-array>
+    <integer-array name="e03e">
+        <item>0x1f3b5</item>
+    </integer-array>
+    <integer-array name="e03f">
+        <item>0x1f511</item>
+    </integer-array>
+    <integer-array name="e040">
+        <item>0x1f3b7</item>
+    </integer-array>
+    <integer-array name="e041">
+        <item>0x1f3b8</item>
+    </integer-array>
+    <integer-array name="e042">
+        <item>0x1f3ba</item>
+    </integer-array>
+    <integer-array name="e043">
+        <item>0x1f374</item>
+    </integer-array>
+    <integer-array name="e044">
+        <item>0x1f378</item>
+    </integer-array>
+    <integer-array name="e045">
+        <item>0x2615</item>
+    </integer-array>
+    <integer-array name="e046">
+        <item>0x1f370</item>
+    </integer-array>
+    <integer-array name="e047">
+        <item>0x1f37a</item>
+    </integer-array>
+    <integer-array name="e048">
+        <item>0x26c4</item>
+    </integer-array>
+    <integer-array name="e049">
+        <item>0x2601</item>
+    </integer-array>
+    <integer-array name="e04a">
+        <item>0x2600</item>
+    </integer-array>
+    <integer-array name="e04b">
+        <item>0x2614</item>
+    </integer-array>
+    <integer-array name="e04c">
+        <item>0x1f319</item>
+    </integer-array>
+    <integer-array name="e04d">
+        <item>0x1f304</item>
+    </integer-array>
+    <integer-array name="e04e">
+        <item>0x1f47c</item>
+    </integer-array>
+    <integer-array name="e04f">
+        <item>0x1f431</item>
+    </integer-array>
+    <integer-array name="e050">
+        <item>0x1f42f</item>
+    </integer-array>
+    <integer-array name="e051">
+        <item>0x1f43b</item>
+    </integer-array>
+    <integer-array name="e052">
+        <item>0x1f436</item>
+    </integer-array>
+    <integer-array name="e053">
+        <item>0x1f42d</item>
+    </integer-array>
+    <integer-array name="e054">
+        <item>0x1f433</item>
+    </integer-array>
+    <integer-array name="e055">
+        <item>0x1f427</item>
+    </integer-array>
+    <integer-array name="e056">
+        <item>0x1f60a</item>
+    </integer-array>
+    <integer-array name="e057">
+        <item>0x1f603</item>
+    </integer-array>
+    <integer-array name="e058">
+        <item>0x1f61e</item>
+    </integer-array>
+    <integer-array name="e059">
+        <item>0x1f620</item>
+    </integer-array>
+    <integer-array name="e05a">
+        <item>0x1f4a9</item>
+    </integer-array>
+    <integer-array name="e101">
+        <item>0x1f4eb</item>
+    </integer-array>
+    <integer-array name="e102">
+        <item>0x1f4ee</item>
+    </integer-array>
+    <integer-array name="e103">
+        <item>0x1f4e9</item>
+    </integer-array>
+    <integer-array name="e104">
+        <item>0x1f4f2</item>
+    </integer-array>
+    <integer-array name="e105">
+        <item>0x1f61c</item>
+    </integer-array>
+    <integer-array name="e106">
+        <item>0x1f60d</item>
+    </integer-array>
+    <integer-array name="e107">
+        <item>0x1f631</item>
+    </integer-array>
+    <integer-array name="e108">
+        <item>0x1f613</item>
+    </integer-array>
+    <integer-array name="e109">
+        <item>0x1f435</item>
+    </integer-array>
+    <integer-array name="e10a">
+        <item>0x1f419</item>
+    </integer-array>
+    <integer-array name="e10b">
+        <item>0x1f437</item>
+    </integer-array>
+    <integer-array name="e10c">
+        <item>0x1f47d</item>
+    </integer-array>
+    <integer-array name="e10d">
+        <item>0x1f680</item>
+    </integer-array>
+    <integer-array name="e10e">
+        <item>0x1f451</item>
+    </integer-array>
+    <integer-array name="e10f">
+        <item>0x1f4a1</item>
+    </integer-array>
+    <integer-array name="e110">
+        <item>0x1f340</item>
+    </integer-array>
+    <integer-array name="e111">
+        <item>0x1f48f</item>
+    </integer-array>
+    <integer-array name="e112">
+        <item>0x1f381</item>
+    </integer-array>
+    <integer-array name="e113">
+        <item>0x1f52b</item>
+    </integer-array>
+    <integer-array name="e114">
+        <item>0x1f50d</item>
+    </integer-array>
+    <integer-array name="e115">
+        <item>0x1f3c3</item>
+    </integer-array>
+    <integer-array name="e116">
+        <item>0x1f528</item>
+    </integer-array>
+    <integer-array name="e117">
+        <item>0x1f386</item>
+    </integer-array>
+    <integer-array name="e118">
+        <item>0x1f341</item>
+    </integer-array>
+    <integer-array name="e119">
+        <item>0x1f342</item>
+    </integer-array>
+    <integer-array name="e11a">
+        <item>0x1f47f</item>
+    </integer-array>
+    <integer-array name="e11b">
+        <item>0x1f47b</item>
+    </integer-array>
+    <integer-array name="e11c">
+        <item>0x1f480</item>
+    </integer-array>
+    <integer-array name="e11d">
+        <item>0x1f525</item>
+    </integer-array>
+    <integer-array name="e11e">
+        <item>0x1f4bc</item>
+    </integer-array>
+    <integer-array name="e11f">
+        <item>0x1f4ba</item>
+    </integer-array>
+    <integer-array name="e120">
+        <item>0x1f354</item>
+    </integer-array>
+    <integer-array name="e121">
+        <item>0x26f2</item>
+    </integer-array>
+    <integer-array name="e122">
+        <item>0x26fa</item>
+    </integer-array>
+    <integer-array name="e123">
+        <item>0x2668</item>
+    </integer-array>
+    <integer-array name="e124">
+        <item>0x1f3a1</item>
+    </integer-array>
+    <integer-array name="e125">
+        <item>0x1f3ab</item>
+    </integer-array>
+    <integer-array name="e126">
+        <item>0x1f4bf</item>
+    </integer-array>
+    <integer-array name="e127">
+        <item>0x1f4c0</item>
+    </integer-array>
+    <integer-array name="e128">
+        <item>0x1f4fb</item>
+    </integer-array>
+    <integer-array name="e129">
+        <item>0x1f4fc</item>
+    </integer-array>
+    <integer-array name="e12a">
+        <item>0x1f4fa</item>
+    </integer-array>
+    <integer-array name="e12b">
+        <item>0x1f47e</item>
+    </integer-array>
+    <integer-array name="e12c">
+        <item>0x303d</item>
+    </integer-array>
+    <integer-array name="e12d">
+        <item>0x1f004</item>
+    </integer-array>
+    <integer-array name="e12e">
+        <item>0x1f19a</item>
+    </integer-array>
+    <integer-array name="e12f">
+        <item>0x1f4b0</item>
+    </integer-array>
+    <integer-array name="e130">
+        <item>0x1f3af</item>
+    </integer-array>
+    <integer-array name="e131">
+        <item>0x1f3c6</item>
+    </integer-array>
+    <integer-array name="e132">
+        <item>0x1f3c1</item>
+    </integer-array>
+    <integer-array name="e133">
+        <item>0x1f3b0</item>
+    </integer-array>
+    <integer-array name="e134">
+        <item>0x1f40e</item>
+    </integer-array>
+    <integer-array name="e135">
+        <item>0x1f6a4</item>
+    </integer-array>
+    <integer-array name="e136">
+        <item>0x1f6b2</item>
+    </integer-array>
+    <integer-array name="e137">
+        <item>0x1f6a7</item>
+    </integer-array>
+    <integer-array name="e138">
+        <item>0x1f6b9</item>
+    </integer-array>
+    <integer-array name="e139">
+        <item>0x1f6ba</item>
+    </integer-array>
+    <integer-array name="e13a">
+        <item>0x1f6bc</item>
+    </integer-array>
+    <integer-array name="e13b">
+        <item>0x1f489</item>
+    </integer-array>
+    <integer-array name="e13c">
+        <item>0x1f4a4</item>
+    </integer-array>
+    <integer-array name="e13d">
+        <item>0x26a1</item>
+    </integer-array>
+    <integer-array name="e13e">
+        <item>0x1f460</item>
+    </integer-array>
+    <integer-array name="e13f">
+        <item>0x1f6c0</item>
+    </integer-array>
+    <integer-array name="e140">
+        <item>0x1f6bd</item>
+    </integer-array>
+    <integer-array name="e141">
+        <item>0x1f50a</item>
+    </integer-array>
+    <integer-array name="e142">
+        <item>0x1f4e2</item>
+    </integer-array>
+    <integer-array name="e143">
+        <item>0x1f38c</item>
+    </integer-array>
+    <integer-array name="e144">
+        <item>0x1f512</item>
+    </integer-array>
+    <integer-array name="e145">
+        <item>0x1f513</item>
+    </integer-array>
+    <integer-array name="e146">
+        <item>0x1f306</item>
+    </integer-array>
+    <integer-array name="e147">
+        <item>0x1f373</item>
+    </integer-array>
+    <integer-array name="e148">
+        <item>0x1f4d6</item>
+    </integer-array>
+    <integer-array name="e149">
+        <item>0x1f4b1</item>
+    </integer-array>
+    <integer-array name="e14a">
+        <item>0x1f4b9</item>
+    </integer-array>
+    <integer-array name="e14b">
+        <item>0x1f4e1</item>
+    </integer-array>
+    <integer-array name="e14c">
+        <item>0x1f4aa</item>
+    </integer-array>
+    <integer-array name="e14d">
+        <item>0x1f3e6</item>
+    </integer-array>
+    <integer-array name="e14e">
+        <item>0x1f6a5</item>
+    </integer-array>
+    <integer-array name="e14f">
+        <item>0x1f17f</item>
+    </integer-array>
+    <integer-array name="e150">
+        <item>0x1f68f</item>
+    </integer-array>
+    <integer-array name="e151">
+        <item>0x1f6bb</item>
+    </integer-array>
+    <integer-array name="e152">
+        <item>0x1f46e</item>
+    </integer-array>
+    <integer-array name="e153">
+        <item>0x1f3e3</item>
+    </integer-array>
+    <integer-array name="e154">
+        <item>0x1f3e7</item>
+    </integer-array>
+    <integer-array name="e155">
+        <item>0x1f3e5</item>
+    </integer-array>
+    <integer-array name="e156">
+        <item>0x1f3ea</item>
+    </integer-array>
+    <integer-array name="e157">
+        <item>0x1f3eb</item>
+    </integer-array>
+    <integer-array name="e158">
+        <item>0x1f3e8</item>
+    </integer-array>
+    <integer-array name="e159">
+        <item>0x1f68c</item>
+    </integer-array>
+    <integer-array name="e15a">
+        <item>0x1f695</item>
+    </integer-array>
+    <integer-array name="e201">
+        <item>0x1f6b6</item>
+    </integer-array>
+    <integer-array name="e202">
+        <item>0x1f6a2</item>
+    </integer-array>
+    <integer-array name="e203">
+        <item>0x1f201</item>
+    </integer-array>
+    <integer-array name="e204">
+        <item>0x1f49f</item>
+    </integer-array>
+    <integer-array name="e205">
+        <item>0x2734</item>
+    </integer-array>
+    <integer-array name="e206">
+        <item>0x2733</item>
+    </integer-array>
+    <integer-array name="e207">
+        <item>0x1f51e</item>
+    </integer-array>
+    <integer-array name="e208">
+        <item>0x1f6ad</item>
+    </integer-array>
+    <integer-array name="e209">
+        <item>0x1f530</item>
+    </integer-array>
+    <integer-array name="e20a">
+        <item>0x267f</item>
+    </integer-array>
+    <integer-array name="e20b">
+        <item>0x1f4f6</item>
+    </integer-array>
+    <integer-array name="e20c">
+        <item>0x2665</item>
+    </integer-array>
+    <integer-array name="e20d">
+        <item>0x2666</item>
+    </integer-array>
+    <integer-array name="e20e">
+        <item>0x2660</item>
+    </integer-array>
+    <integer-array name="e20f">
+        <item>0x2663</item>
+    </integer-array>
+    <integer-array name="e210">
+        <item>0x23</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e211">
+        <item>0x27bf</item>
+    </integer-array>
+    <integer-array name="e212">
+        <item>0x1f195</item>
+    </integer-array>
+    <integer-array name="e213">
+        <item>0x1f199</item>
+    </integer-array>
+    <integer-array name="e214">
+        <item>0x1f192</item>
+    </integer-array>
+    <integer-array name="e215">
+        <item>0x1f236</item>
+    </integer-array>
+    <integer-array name="e216">
+        <item>0x1f21a</item>
+    </integer-array>
+    <integer-array name="e217">
+        <item>0x1f237</item>
+    </integer-array>
+    <integer-array name="e218">
+        <item>0x1f238</item>
+    </integer-array>
+    <integer-array name="e219">
+        <item>0x1f534</item>
+    </integer-array>
+    <integer-array name="e21a">
+        <item>0x1f532</item>
+    </integer-array>
+    <integer-array name="e21b">
+        <item>0x1f533</item>
+    </integer-array>
+    <integer-array name="e21c">
+        <item>0x31</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e21d">
+        <item>0x32</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e21e">
+        <item>0x33</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e21f">
+        <item>0x34</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e220">
+        <item>0x35</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e221">
+        <item>0x36</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e222">
+        <item>0x37</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e223">
+        <item>0x38</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e224">
+        <item>0x39</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e225">
+        <item>0x30</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="e226">
+        <item>0x1f250</item>
+    </integer-array>
+    <integer-array name="e227">
+        <item>0x1f239</item>
+    </integer-array>
+    <integer-array name="e228">
+        <item>0x1f202</item>
+    </integer-array>
+    <integer-array name="e229">
+        <item>0x1f194</item>
+    </integer-array>
+    <integer-array name="e22a">
+        <item>0x1f235</item>
+    </integer-array>
+    <integer-array name="e22b">
+        <item>0x1f233</item>
+    </integer-array>
+    <integer-array name="e22c">
+        <item>0x1f22f</item>
+    </integer-array>
+    <integer-array name="e22d">
+        <item>0x1f23a</item>
+    </integer-array>
+    <integer-array name="e22e">
+        <item>0x1f446</item>
+    </integer-array>
+    <integer-array name="e22f">
+        <item>0x1f447</item>
+    </integer-array>
+    <integer-array name="e230">
+        <item>0x1f448</item>
+    </integer-array>
+    <integer-array name="e231">
+        <item>0x1f449</item>
+    </integer-array>
+    <integer-array name="e232">
+        <item>0x2b06</item>
+    </integer-array>
+    <integer-array name="e233">
+        <item>0x2b07</item>
+    </integer-array>
+    <integer-array name="e234">
+        <item>0x27a1</item>
+    </integer-array>
+    <integer-array name="e235">
+        <item>0x2b05</item>
+    </integer-array>
+    <integer-array name="e236">
+        <item>0x2197</item>
+    </integer-array>
+    <integer-array name="e237">
+        <item>0x2196</item>
+    </integer-array>
+    <integer-array name="e238">
+        <item>0x2198</item>
+    </integer-array>
+    <integer-array name="e239">
+        <item>0x2199</item>
+    </integer-array>
+    <integer-array name="e23a">
+        <item>0x25b6</item>
+    </integer-array>
+    <integer-array name="e23b">
+        <item>0x25c0</item>
+    </integer-array>
+    <integer-array name="e23c">
+        <item>0x23e9</item>
+    </integer-array>
+    <integer-array name="e23d">
+        <item>0x23ea</item>
+    </integer-array>
+    <integer-array name="e23e">
+        <item>0x1f52f</item>
+    </integer-array>
+    <integer-array name="e23f">
+        <item>0x2648</item>
+    </integer-array>
+    <integer-array name="e240">
+        <item>0x2649</item>
+    </integer-array>
+    <integer-array name="e241">
+        <item>0x264a</item>
+    </integer-array>
+    <integer-array name="e242">
+        <item>0x264b</item>
+    </integer-array>
+    <integer-array name="e243">
+        <item>0x264c</item>
+    </integer-array>
+    <integer-array name="e244">
+        <item>0x264d</item>
+    </integer-array>
+    <integer-array name="e245">
+        <item>0x264e</item>
+    </integer-array>
+    <integer-array name="e246">
+        <item>0x264f</item>
+    </integer-array>
+    <integer-array name="e247">
+        <item>0x2650</item>
+    </integer-array>
+    <integer-array name="e248">
+        <item>0x2651</item>
+    </integer-array>
+    <integer-array name="e249">
+        <item>0x2652</item>
+    </integer-array>
+    <integer-array name="e24a">
+        <item>0x2653</item>
+    </integer-array>
+    <integer-array name="e24b">
+        <item>0x26ce</item>
+    </integer-array>
+    <integer-array name="e24c">
+        <item>0x1f51d</item>
+    </integer-array>
+    <integer-array name="e24d">
+        <item>0x1f197</item>
+    </integer-array>
+    <integer-array name="e24e">
+        <item>0xa9</item>
+    </integer-array>
+    <integer-array name="e24f">
+        <item>0xae</item>
+    </integer-array>
+    <integer-array name="e250">
+        <item>0x1f4f3</item>
+    </integer-array>
+    <integer-array name="e251">
+        <item>0x1f4f4</item>
+    </integer-array>
+    <integer-array name="e252">
+        <item>0x26a0</item>
+    </integer-array>
+    <integer-array name="e253">
+        <item>0x1f481</item>
+    </integer-array>
+    <integer-array name="e301">
+        <item>0x1f4dd</item>
+    </integer-array>
+    <integer-array name="e302">
+        <item>0x1f454</item>
+    </integer-array>
+    <integer-array name="e303">
+        <item>0x1f33a</item>
+    </integer-array>
+    <integer-array name="e304">
+        <item>0x1f337</item>
+    </integer-array>
+    <integer-array name="e305">
+        <item>0x1f33b</item>
+    </integer-array>
+    <integer-array name="e306">
+        <item>0x1f490</item>
+    </integer-array>
+    <integer-array name="e307">
+        <item>0x1f334</item>
+    </integer-array>
+    <integer-array name="e308">
+        <item>0x1f335</item>
+    </integer-array>
+    <integer-array name="e309">
+        <item>0x1f6be</item>
+    </integer-array>
+    <integer-array name="e30a">
+        <item>0x1f3a7</item>
+    </integer-array>
+    <integer-array name="e30b">
+        <item>0x1f376</item>
+    </integer-array>
+    <integer-array name="e30c">
+        <item>0x1f37b</item>
+    </integer-array>
+    <integer-array name="e30d">
+        <item>0x3297</item>
+    </integer-array>
+    <integer-array name="e30e">
+        <item>0x1f6ac</item>
+    </integer-array>
+    <integer-array name="e30f">
+        <item>0x1f48a</item>
+    </integer-array>
+    <integer-array name="e310">
+        <item>0x1f388</item>
+    </integer-array>
+    <integer-array name="e311">
+        <item>0x1f4a3</item>
+    </integer-array>
+    <integer-array name="e312">
+        <item>0x1f389</item>
+    </integer-array>
+    <integer-array name="e313">
+        <item>0x2702</item>
+    </integer-array>
+    <integer-array name="e314">
+        <item>0x1f380</item>
+    </integer-array>
+    <integer-array name="e315">
+        <item>0x3299</item>
+    </integer-array>
+    <integer-array name="e316">
+        <item>0x1f4bd</item>
+    </integer-array>
+    <integer-array name="e317">
+        <item>0x1f4e3</item>
+    </integer-array>
+    <integer-array name="e318">
+        <item>0x1f452</item>
+    </integer-array>
+    <integer-array name="e319">
+        <item>0x1f457</item>
+    </integer-array>
+    <integer-array name="e31a">
+        <item>0x1f461</item>
+    </integer-array>
+    <integer-array name="e31b">
+        <item>0x1f462</item>
+    </integer-array>
+    <integer-array name="e31c">
+        <item>0x1f484</item>
+    </integer-array>
+    <integer-array name="e31d">
+        <item>0x1f485</item>
+    </integer-array>
+    <integer-array name="e31e">
+        <item>0x1f486</item>
+    </integer-array>
+    <integer-array name="e31f">
+        <item>0x1f487</item>
+    </integer-array>
+    <integer-array name="e320">
+        <item>0x1f488</item>
+    </integer-array>
+    <integer-array name="e321">
+        <item>0x1f458</item>
+    </integer-array>
+    <integer-array name="e322">
+        <item>0x1f459</item>
+    </integer-array>
+    <integer-array name="e323">
+        <item>0x1f45c</item>
+    </integer-array>
+    <integer-array name="e324">
+        <item>0x1f3ac</item>
+    </integer-array>
+    <integer-array name="e325">
+        <item>0x1f514</item>
+    </integer-array>
+    <integer-array name="e326">
+        <item>0x1f3b6</item>
+    </integer-array>
+    <integer-array name="e327">
+        <item>0x1f493</item>
+    </integer-array>
+    <integer-array name="e328">
+        <item>0x1f497</item>
+    </integer-array>
+    <integer-array name="e329">
+        <item>0x1f498</item>
+    </integer-array>
+    <integer-array name="e32a">
+        <item>0x1f499</item>
+    </integer-array>
+    <integer-array name="e32b">
+        <item>0x1f49a</item>
+    </integer-array>
+    <integer-array name="e32c">
+        <item>0x1f49b</item>
+    </integer-array>
+    <integer-array name="e32d">
+        <item>0x1f49c</item>
+    </integer-array>
+    <integer-array name="e32e">
+        <item>0x2728</item>
+    </integer-array>
+    <integer-array name="e330">
+        <item>0x1f4a8</item>
+    </integer-array>
+    <integer-array name="e331">
+        <item>0x1f4a6</item>
+    </integer-array>
+    <integer-array name="e332">
+        <item>0x2b55</item>
+    </integer-array>
+    <integer-array name="e333">
+        <item>0x274c</item>
+    </integer-array>
+    <integer-array name="e334">
+        <item>0x1f4a2</item>
+    </integer-array>
+    <integer-array name="e335">
+        <item>0x1f31f</item>
+    </integer-array>
+    <integer-array name="e336">
+        <item>0x2754</item>
+    </integer-array>
+    <integer-array name="e337">
+        <item>0x2755</item>
+    </integer-array>
+    <integer-array name="e338">
+        <item>0x1f375</item>
+    </integer-array>
+    <integer-array name="e339">
+        <item>0x1f35e</item>
+    </integer-array>
+    <integer-array name="e33a">
+        <item>0x1f366</item>
+    </integer-array>
+    <integer-array name="e33b">
+        <item>0x1f35f</item>
+    </integer-array>
+    <integer-array name="e33c">
+        <item>0x1f361</item>
+    </integer-array>
+    <integer-array name="e33d">
+        <item>0x1f358</item>
+    </integer-array>
+    <integer-array name="e33e">
+        <item>0x1f35a</item>
+    </integer-array>
+    <integer-array name="e33f">
+        <item>0x1f35d</item>
+    </integer-array>
+    <integer-array name="e340">
+        <item>0x1f35c</item>
+    </integer-array>
+    <integer-array name="e341">
+        <item>0x1f35b</item>
+    </integer-array>
+    <integer-array name="e342">
+        <item>0x1f359</item>
+    </integer-array>
+    <integer-array name="e343">
+        <item>0x1f362</item>
+    </integer-array>
+    <integer-array name="e344">
+        <item>0x1f363</item>
+    </integer-array>
+    <integer-array name="e345">
+        <item>0x1f34e</item>
+    </integer-array>
+    <integer-array name="e346">
+        <item>0x1f34a</item>
+    </integer-array>
+    <integer-array name="e347">
+        <item>0x1f353</item>
+    </integer-array>
+    <integer-array name="e348">
+        <item>0x1f349</item>
+    </integer-array>
+    <integer-array name="e349">
+        <item>0x1f345</item>
+    </integer-array>
+    <integer-array name="e34a">
+        <item>0x1f346</item>
+    </integer-array>
+    <integer-array name="e34b">
+        <item>0x1f382</item>
+    </integer-array>
+    <integer-array name="e34c">
+        <item>0x1f371</item>
+    </integer-array>
+    <integer-array name="e34d">
+        <item>0x1f372</item>
+    </integer-array>
+    <integer-array name="e401">
+        <item>0x1f625</item>
+    </integer-array>
+    <integer-array name="e402">
+        <item>0x1f60f</item>
+    </integer-array>
+    <integer-array name="e403">
+        <item>0x1f614</item>
+    </integer-array>
+    <integer-array name="e404">
+        <item>0x1f601</item>
+    </integer-array>
+    <integer-array name="e405">
+        <item>0x1f609</item>
+    </integer-array>
+    <integer-array name="e406">
+        <item>0x1f623</item>
+    </integer-array>
+    <integer-array name="e407">
+        <item>0x1f616</item>
+    </integer-array>
+    <integer-array name="e408">
+        <item>0x1f62a</item>
+    </integer-array>
+    <integer-array name="e409">
+        <item>0x1f61d</item>
+    </integer-array>
+    <integer-array name="e40a">
+        <item>0x1f60c</item>
+    </integer-array>
+    <integer-array name="e40b">
+        <item>0x1f628</item>
+    </integer-array>
+    <integer-array name="e40c">
+        <item>0x1f637</item>
+    </integer-array>
+    <integer-array name="e40d">
+        <item>0x1f633</item>
+    </integer-array>
+    <integer-array name="e40e">
+        <item>0x1f612</item>
+    </integer-array>
+    <integer-array name="e40f">
+        <item>0x1f630</item>
+    </integer-array>
+    <integer-array name="e410">
+        <item>0x1f632</item>
+    </integer-array>
+    <integer-array name="e411">
+        <item>0x1f62d</item>
+    </integer-array>
+    <integer-array name="e412">
+        <item>0x1f602</item>
+    </integer-array>
+    <integer-array name="e413">
+        <item>0x1f622</item>
+    </integer-array>
+    <integer-array name="e414">
+        <item>0x263a</item>
+    </integer-array>
+    <integer-array name="e415">
+        <item>0x1f604</item>
+    </integer-array>
+    <integer-array name="e416">
+        <item>0x1f621</item>
+    </integer-array>
+    <integer-array name="e417">
+        <item>0x1f61a</item>
+    </integer-array>
+    <integer-array name="e418">
+        <item>0x1f618</item>
+    </integer-array>
+    <integer-array name="e419">
+        <item>0x1f440</item>
+    </integer-array>
+    <integer-array name="e41a">
+        <item>0x1f443</item>
+    </integer-array>
+    <integer-array name="e41b">
+        <item>0x1f442</item>
+    </integer-array>
+    <integer-array name="e41c">
+        <item>0x1f444</item>
+    </integer-array>
+    <integer-array name="e41d">
+        <item>0x1f64f</item>
+    </integer-array>
+    <integer-array name="e41e">
+        <item>0x1f44b</item>
+    </integer-array>
+    <integer-array name="e41f">
+        <item>0x1f44f</item>
+    </integer-array>
+    <integer-array name="e420">
+        <item>0x1f44c</item>
+    </integer-array>
+    <integer-array name="e421">
+        <item>0x1f44e</item>
+    </integer-array>
+    <integer-array name="e422">
+        <item>0x1f450</item>
+    </integer-array>
+    <integer-array name="e423">
+        <item>0x1f645</item>
+    </integer-array>
+    <integer-array name="e424">
+        <item>0x1f646</item>
+    </integer-array>
+    <integer-array name="e425">
+        <item>0x1f491</item>
+    </integer-array>
+    <integer-array name="e426">
+        <item>0x1f647</item>
+    </integer-array>
+    <integer-array name="e427">
+        <item>0x1f64c</item>
+    </integer-array>
+    <integer-array name="e428">
+        <item>0x1f46b</item>
+    </integer-array>
+    <integer-array name="e429">
+        <item>0x1f46f</item>
+    </integer-array>
+    <integer-array name="e42a">
+        <item>0x1f3c0</item>
+    </integer-array>
+    <integer-array name="e42b">
+        <item>0x1f3c8</item>
+    </integer-array>
+    <integer-array name="e42c">
+        <item>0x1f3b1</item>
+    </integer-array>
+    <integer-array name="e42d">
+        <item>0x1f3ca</item>
+    </integer-array>
+    <integer-array name="e42e">
+        <item>0x1f699</item>
+    </integer-array>
+    <integer-array name="e42f">
+        <item>0x1f69a</item>
+    </integer-array>
+    <integer-array name="e430">
+        <item>0x1f692</item>
+    </integer-array>
+    <integer-array name="e431">
+        <item>0x1f691</item>
+    </integer-array>
+    <integer-array name="e432">
+        <item>0x1f693</item>
+    </integer-array>
+    <integer-array name="e433">
+        <item>0x1f3a2</item>
+    </integer-array>
+    <integer-array name="e434">
+        <item>0x1f687</item>
+    </integer-array>
+    <integer-array name="e435">
+        <item>0x1f684</item>
+    </integer-array>
+    <integer-array name="e436">
+        <item>0x1f38d</item>
+    </integer-array>
+    <integer-array name="e437">
+        <item>0x1f49d</item>
+    </integer-array>
+    <integer-array name="e438">
+        <item>0x1f38e</item>
+    </integer-array>
+    <integer-array name="e439">
+        <item>0x1f393</item>
+    </integer-array>
+    <integer-array name="e43a">
+        <item>0x1f392</item>
+    </integer-array>
+    <integer-array name="e43b">
+        <item>0x1f38f</item>
+    </integer-array>
+    <integer-array name="e43c">
+        <item>0x1f302</item>
+    </integer-array>
+    <integer-array name="e43d">
+        <item>0x1f492</item>
+    </integer-array>
+    <integer-array name="e43e">
+        <item>0x1f30a</item>
+    </integer-array>
+    <integer-array name="e43f">
+        <item>0x1f367</item>
+    </integer-array>
+    <integer-array name="e440">
+        <item>0x1f387</item>
+    </integer-array>
+    <integer-array name="e441">
+        <item>0x1f41a</item>
+    </integer-array>
+    <integer-array name="e442">
+        <item>0x1f390</item>
+    </integer-array>
+    <integer-array name="e443">
+        <item>0x1f300</item>
+    </integer-array>
+    <integer-array name="e444">
+        <item>0x1f33e</item>
+    </integer-array>
+    <integer-array name="e445">
+        <item>0x1f383</item>
+    </integer-array>
+    <integer-array name="e446">
+        <item>0x1f391</item>
+    </integer-array>
+    <integer-array name="e447">
+        <item>0x1f343</item>
+    </integer-array>
+    <integer-array name="e448">
+        <item>0x1f385</item>
+    </integer-array>
+    <integer-array name="e449">
+        <item>0x1f305</item>
+    </integer-array>
+    <integer-array name="e44a">
+        <item>0x1f307</item>
+    </integer-array>
+    <integer-array name="e44b">
+        <item>0x1f303</item>
+    </integer-array>
+    <integer-array name="e44c">
+        <item>0x1f308</item>
+    </integer-array>
+    <integer-array name="e501">
+        <item>0x1f3e9</item>
+    </integer-array>
+    <integer-array name="e502">
+        <item>0x1f3a8</item>
+    </integer-array>
+    <integer-array name="e503">
+        <item>0x1f3a9</item>
+    </integer-array>
+    <integer-array name="e504">
+        <item>0x1f3ec</item>
+    </integer-array>
+    <integer-array name="e505">
+        <item>0x1f3ef</item>
+    </integer-array>
+    <integer-array name="e506">
+        <item>0x1f3f0</item>
+    </integer-array>
+    <integer-array name="e507">
+        <item>0x1f3a6</item>
+    </integer-array>
+    <integer-array name="e508">
+        <item>0x1f3ed</item>
+    </integer-array>
+    <integer-array name="e509">
+        <item>0x1f5fc</item>
+    </integer-array>
+    <integer-array name="e50b">
+        <item>0x1f1ef</item>
+        <item>0x1f1f5</item>
+    </integer-array>
+    <integer-array name="e50c">
+        <item>0x1f1fa</item>
+        <item>0x1f1f8</item>
+    </integer-array>
+    <integer-array name="e50d">
+        <item>0x1f1eb</item>
+        <item>0x1f1f7</item>
+    </integer-array>
+    <integer-array name="e50e">
+        <item>0x1f1e9</item>
+        <item>0x1f1ea</item>
+    </integer-array>
+    <integer-array name="e50f">
+        <item>0x1f1ee</item>
+        <item>0x1f1f9</item>
+    </integer-array>
+    <integer-array name="e510">
+        <item>0x1f1ec</item>
+        <item>0x1f1e7</item>
+    </integer-array>
+    <integer-array name="e511">
+        <item>0x1f1ea</item>
+        <item>0x1f1f8</item>
+    </integer-array>
+    <integer-array name="e512">
+        <item>0x1f1f7</item>
+        <item>0x1f1fa</item>
+    </integer-array>
+    <integer-array name="e513">
+        <item>0x1f1e8</item>
+        <item>0x1f1f3</item>
+    </integer-array>
+    <integer-array name="e514">
+        <item>0x1f1f0</item>
+        <item>0x1f1f7</item>
+    </integer-array>
+    <integer-array name="e515">
+        <item>0x1f471</item>
+    </integer-array>
+    <integer-array name="e516">
+        <item>0x1f472</item>
+    </integer-array>
+    <integer-array name="e517">
+        <item>0x1f473</item>
+    </integer-array>
+    <integer-array name="e518">
+        <item>0x1f474</item>
+    </integer-array>
+    <integer-array name="e519">
+        <item>0x1f475</item>
+    </integer-array>
+    <integer-array name="e51a">
+        <item>0x1f476</item>
+    </integer-array>
+    <integer-array name="e51b">
+        <item>0x1f477</item>
+    </integer-array>
+    <integer-array name="e51c">
+        <item>0x1f478</item>
+    </integer-array>
+    <integer-array name="e51d">
+        <item>0x1f5fd</item>
+    </integer-array>
+    <integer-array name="e51e">
+        <item>0x1f482</item>
+    </integer-array>
+    <integer-array name="e51f">
+        <item>0x1f483</item>
+    </integer-array>
+    <integer-array name="e520">
+        <item>0x1f42c</item>
+    </integer-array>
+    <integer-array name="e521">
+        <item>0x1f426</item>
+    </integer-array>
+    <integer-array name="e522">
+        <item>0x1f420</item>
+    </integer-array>
+    <integer-array name="e523">
+        <item>0x1f424</item>
+    </integer-array>
+    <integer-array name="e524">
+        <item>0x1f439</item>
+    </integer-array>
+    <integer-array name="e525">
+        <item>0x1f41b</item>
+    </integer-array>
+    <integer-array name="e526">
+        <item>0x1f418</item>
+    </integer-array>
+    <integer-array name="e527">
+        <item>0x1f428</item>
+    </integer-array>
+    <integer-array name="e528">
+        <item>0x1f412</item>
+    </integer-array>
+    <integer-array name="e529">
+        <item>0x1f411</item>
+    </integer-array>
+    <integer-array name="e52a">
+        <item>0x1f43a</item>
+    </integer-array>
+    <integer-array name="e52b">
+        <item>0x1f42e</item>
+    </integer-array>
+    <integer-array name="e52c">
+        <item>0x1f430</item>
+    </integer-array>
+    <integer-array name="e52d">
+        <item>0x1f40d</item>
+    </integer-array>
+    <integer-array name="e52e">
+        <item>0x1f414</item>
+    </integer-array>
+    <integer-array name="e52f">
+        <item>0x1f417</item>
+    </integer-array>
+    <integer-array name="e530">
+        <item>0x1f42b</item>
+    </integer-array>
+    <integer-array name="e531">
+        <item>0x1f438</item>
+    </integer-array>
+    <integer-array name="e532">
+        <item>0x1f170</item>
+    </integer-array>
+    <integer-array name="e533">
+        <item>0x1f171</item>
+    </integer-array>
+    <integer-array name="e534">
+        <item>0x1f18e</item>
+    </integer-array>
+    <integer-array name="e535">
+        <item>0x1f17e</item>
+    </integer-array>
+    <integer-array name="e536">
+        <item>0x1f463</item>
+    </integer-array>
+    <integer-array name="e537">
+        <item>0x2122</item>
+    </integer-array>
+    <integer-array name="em_1f0cf">
+        <item>0x1f0cf</item>
+    </integer-array>
+    <integer-array name="em_1f191">
+        <item>0x1f191</item>
+    </integer-array>
+    <integer-array name="em_1f193">
+        <item>0x1f193</item>
+    </integer-array>
+    <integer-array name="em_1f196">
+        <item>0x1f196</item>
+    </integer-array>
+    <integer-array name="em_1f198">
+        <item>0x1f198</item>
+    </integer-array>
+    <integer-array name="em_1f232">
+        <item>0x1f232</item>
+    </integer-array>
+    <integer-array name="em_1f234">
+        <item>0x1f234</item>
+    </integer-array>
+    <integer-array name="em_1f251">
+        <item>0x1f251</item>
+    </integer-array>
+    <integer-array name="em_1f301">
+        <item>0x1f301</item>
+    </integer-array>
+    <integer-array name="em_1f309">
+        <item>0x1f309</item>
+    </integer-array>
+    <integer-array name="em_1f30b">
+        <item>0x1f30b</item>
+    </integer-array>
+    <integer-array name="em_1f30c">
+        <item>0x1f30c</item>
+    </integer-array>
+    <integer-array name="em_1f30d">
+        <item>0x1f30d</item>
+    </integer-array>
+    <integer-array name="em_1f30e">
+        <item>0x1f30e</item>
+    </integer-array>
+    <integer-array name="em_1f30f">
+        <item>0x1f30f</item>
+    </integer-array>
+    <integer-array name="em_1f310">
+        <item>0x1f310</item>
+    </integer-array>
+    <integer-array name="em_1f311">
+        <item>0x1f311</item>
+    </integer-array>
+    <integer-array name="em_1f312">
+        <item>0x1f312</item>
+    </integer-array>
+    <integer-array name="em_1f313">
+        <item>0x1f313</item>
+    </integer-array>
+    <integer-array name="em_1f314">
+        <item>0x1f314</item>
+    </integer-array>
+    <integer-array name="em_1f315">
+        <item>0x1f315</item>
+    </integer-array>
+    <integer-array name="em_1f316">
+        <item>0x1f316</item>
+    </integer-array>
+    <integer-array name="em_1f317">
+        <item>0x1f317</item>
+    </integer-array>
+    <integer-array name="em_1f318">
+        <item>0x1f318</item>
+    </integer-array>
+    <integer-array name="em_1f31a">
+        <item>0x1f31a</item>
+    </integer-array>
+    <integer-array name="em_1f31b">
+        <item>0x1f31b</item>
+    </integer-array>
+    <integer-array name="em_1f31c">
+        <item>0x1f31c</item>
+    </integer-array>
+    <integer-array name="em_1f31d">
+        <item>0x1f31d</item>
+    </integer-array>
+    <integer-array name="em_1f31e">
+        <item>0x1f31e</item>
+    </integer-array>
+    <integer-array name="em_1f320">
+        <item>0x1f320</item>
+    </integer-array>
+    <integer-array name="em_1f330">
+        <item>0x1f330</item>
+    </integer-array>
+    <integer-array name="em_1f331">
+        <item>0x1f331</item>
+    </integer-array>
+    <integer-array name="em_1f332">
+        <item>0x1f332</item>
+    </integer-array>
+    <integer-array name="em_1f333">
+        <item>0x1f333</item>
+    </integer-array>
+    <integer-array name="em_1f33c">
+        <item>0x1f33c</item>
+    </integer-array>
+    <integer-array name="em_1f33d">
+        <item>0x1f33d</item>
+    </integer-array>
+    <integer-array name="em_1f33f">
+        <item>0x1f33f</item>
+    </integer-array>
+    <integer-array name="em_1f344">
+        <item>0x1f344</item>
+    </integer-array>
+    <integer-array name="em_1f347">
+        <item>0x1f347</item>
+    </integer-array>
+    <integer-array name="em_1f348">
+        <item>0x1f348</item>
+    </integer-array>
+    <integer-array name="em_1f34b">
+        <item>0x1f34b</item>
+    </integer-array>
+    <integer-array name="em_1f34c">
+        <item>0x1f34c</item>
+    </integer-array>
+    <integer-array name="em_1f34d">
+        <item>0x1f34d</item>
+    </integer-array>
+    <integer-array name="em_1f34f">
+        <item>0x1f34f</item>
+    </integer-array>
+    <integer-array name="em_1f350">
+        <item>0x1f350</item>
+    </integer-array>
+    <integer-array name="em_1f351">
+        <item>0x1f351</item>
+    </integer-array>
+    <integer-array name="em_1f352">
+        <item>0x1f352</item>
+    </integer-array>
+    <integer-array name="em_1f355">
+        <item>0x1f355</item>
+    </integer-array>
+    <integer-array name="em_1f356">
+        <item>0x1f356</item>
+    </integer-array>
+    <integer-array name="em_1f357">
+        <item>0x1f357</item>
+    </integer-array>
+    <integer-array name="em_1f360">
+        <item>0x1f360</item>
+    </integer-array>
+    <integer-array name="em_1f364">
+        <item>0x1f364</item>
+    </integer-array>
+    <integer-array name="em_1f365">
+        <item>0x1f365</item>
+    </integer-array>
+    <integer-array name="em_1f368">
+        <item>0x1f368</item>
+    </integer-array>
+    <integer-array name="em_1f369">
+        <item>0x1f369</item>
+    </integer-array>
+    <integer-array name="em_1f36a">
+        <item>0x1f36a</item>
+    </integer-array>
+    <integer-array name="em_1f36b">
+        <item>0x1f36b</item>
+    </integer-array>
+    <integer-array name="em_1f36c">
+        <item>0x1f36c</item>
+    </integer-array>
+    <integer-array name="em_1f36d">
+        <item>0x1f36d</item>
+    </integer-array>
+    <integer-array name="em_1f36e">
+        <item>0x1f36e</item>
+    </integer-array>
+    <integer-array name="em_1f36f">
+        <item>0x1f36f</item>
+    </integer-array>
+    <integer-array name="em_1f377">
+        <item>0x1f377</item>
+    </integer-array>
+    <integer-array name="em_1f379">
+        <item>0x1f379</item>
+    </integer-array>
+    <integer-array name="em_1f37c">
+        <item>0x1f37c</item>
+    </integer-array>
+    <integer-array name="em_1f38a">
+        <item>0x1f38a</item>
+    </integer-array>
+    <integer-array name="em_1f38b">
+        <item>0x1f38b</item>
+    </integer-array>
+    <integer-array name="em_1f3a0">
+        <item>0x1f3a0</item>
+    </integer-array>
+    <integer-array name="em_1f3a3">
+        <item>0x1f3a3</item>
+    </integer-array>
+    <integer-array name="em_1f3aa">
+        <item>0x1f3aa</item>
+    </integer-array>
+    <integer-array name="em_1f3ad">
+        <item>0x1f3ad</item>
+    </integer-array>
+    <integer-array name="em_1f3ae">
+        <item>0x1f3ae</item>
+    </integer-array>
+    <integer-array name="em_1f3b2">
+        <item>0x1f3b2</item>
+    </integer-array>
+    <integer-array name="em_1f3b3">
+        <item>0x1f3b3</item>
+    </integer-array>
+    <integer-array name="em_1f3b4">
+        <item>0x1f3b4</item>
+    </integer-array>
+    <integer-array name="em_1f3b9">
+        <item>0x1f3b9</item>
+    </integer-array>
+    <integer-array name="em_1f3bb">
+        <item>0x1f3bb</item>
+    </integer-array>
+    <integer-array name="em_1f3bc">
+        <item>0x1f3bc</item>
+    </integer-array>
+    <integer-array name="em_1f3bd">
+        <item>0x1f3bd</item>
+    </integer-array>
+    <integer-array name="em_1f3c2">
+        <item>0x1f3c2</item>
+    </integer-array>
+    <integer-array name="em_1f3c7">
+        <item>0x1f3c7</item>
+    </integer-array>
+    <integer-array name="em_1f3c9">
+        <item>0x1f3c9</item>
+    </integer-array>
+    <integer-array name="em_1f3e1">
+        <item>0x1f3e1</item>
+    </integer-array>
+    <integer-array name="em_1f3e4">
+        <item>0x1f3e4</item>
+    </integer-array>
+    <integer-array name="em_1f3ee">
+        <item>0x1f3ee</item>
+    </integer-array>
+    <integer-array name="em_1f400">
+        <item>0x1f400</item>
+    </integer-array>
+    <integer-array name="em_1f401">
+        <item>0x1f401</item>
+    </integer-array>
+    <integer-array name="em_1f402">
+        <item>0x1f402</item>
+    </integer-array>
+    <integer-array name="em_1f403">
+        <item>0x1f403</item>
+    </integer-array>
+    <integer-array name="em_1f404">
+        <item>0x1f404</item>
+    </integer-array>
+    <integer-array name="em_1f405">
+        <item>0x1f405</item>
+    </integer-array>
+    <integer-array name="em_1f406">
+        <item>0x1f406</item>
+    </integer-array>
+    <integer-array name="em_1f407">
+        <item>0x1f407</item>
+    </integer-array>
+    <integer-array name="em_1f408">
+        <item>0x1f408</item>
+    </integer-array>
+    <integer-array name="em_1f409">
+        <item>0x1f409</item>
+    </integer-array>
+    <integer-array name="em_1f40a">
+        <item>0x1f40a</item>
+    </integer-array>
+    <integer-array name="em_1f40b">
+        <item>0x1f40b</item>
+    </integer-array>
+    <integer-array name="em_1f40c">
+        <item>0x1f40c</item>
+    </integer-array>
+    <integer-array name="em_1f40f">
+        <item>0x1f40f</item>
+    </integer-array>
+    <integer-array name="em_1f410">
+        <item>0x1f410</item>
+    </integer-array>
+    <integer-array name="em_1f413">
+        <item>0x1f413</item>
+    </integer-array>
+    <integer-array name="em_1f415">
+        <item>0x1f415</item>
+    </integer-array>
+    <integer-array name="em_1f416">
+        <item>0x1f416</item>
+    </integer-array>
+    <integer-array name="em_1f41c">
+        <item>0x1f41c</item>
+    </integer-array>
+    <integer-array name="em_1f41d">
+        <item>0x1f41d</item>
+    </integer-array>
+    <integer-array name="em_1f41e">
+        <item>0x1f41e</item>
+    </integer-array>
+    <integer-array name="em_1f421">
+        <item>0x1f421</item>
+    </integer-array>
+    <integer-array name="em_1f422">
+        <item>0x1f422</item>
+    </integer-array>
+    <integer-array name="em_1f423">
+        <item>0x1f423</item>
+    </integer-array>
+    <integer-array name="em_1f425">
+        <item>0x1f425</item>
+    </integer-array>
+    <integer-array name="em_1f429">
+        <item>0x1f429</item>
+    </integer-array>
+    <integer-array name="em_1f42a">
+        <item>0x1f42a</item>
+    </integer-array>
+    <integer-array name="em_1f432">
+        <item>0x1f432</item>
+    </integer-array>
+    <integer-array name="em_1f43c">
+        <item>0x1f43c</item>
+    </integer-array>
+    <integer-array name="em_1f43d">
+        <item>0x1f43d</item>
+    </integer-array>
+    <integer-array name="em_1f43e">
+        <item>0x1f43e</item>
+    </integer-array>
+    <integer-array name="em_1f445">
+        <item>0x1f445</item>
+    </integer-array>
+    <integer-array name="em_1f453">
+        <item>0x1f453</item>
+    </integer-array>
+    <integer-array name="em_1f456">
+        <item>0x1f456</item>
+    </integer-array>
+    <integer-array name="em_1f45a">
+        <item>0x1f45a</item>
+    </integer-array>
+    <integer-array name="em_1f45b">
+        <item>0x1f45b</item>
+    </integer-array>
+    <integer-array name="em_1f45d">
+        <item>0x1f45d</item>
+    </integer-array>
+    <integer-array name="em_1f45e">
+        <item>0x1f45e</item>
+    </integer-array>
+    <integer-array name="em_1f464">
+        <item>0x1f464</item>
+    </integer-array>
+    <integer-array name="em_1f465">
+        <item>0x1f465</item>
+    </integer-array>
+    <integer-array name="em_1f46a">
+        <item>0x1f46a</item>
+    </integer-array>
+    <integer-array name="em_1f46c">
+        <item>0x1f46c</item>
+    </integer-array>
+    <integer-array name="em_1f46d">
+        <item>0x1f46d</item>
+    </integer-array>
+    <integer-array name="em_1f470">
+        <item>0x1f470</item>
+    </integer-array>
+    <integer-array name="em_1f479">
+        <item>0x1f479</item>
+    </integer-array>
+    <integer-array name="em_1f47a">
+        <item>0x1f47a</item>
+    </integer-array>
+    <integer-array name="em_1f48c">
+        <item>0x1f48c</item>
+    </integer-array>
+    <integer-array name="em_1f495">
+        <item>0x1f495</item>
+    </integer-array>
+    <integer-array name="em_1f496">
+        <item>0x1f496</item>
+    </integer-array>
+    <integer-array name="em_1f49e">
+        <item>0x1f49e</item>
+    </integer-array>
+    <integer-array name="em_1f4a0">
+        <item>0x1f4a0</item>
+    </integer-array>
+    <integer-array name="em_1f4a5">
+        <item>0x1f4a5</item>
+    </integer-array>
+    <integer-array name="em_1f4a7">
+        <item>0x1f4a7</item>
+    </integer-array>
+    <integer-array name="em_1f4ab">
+        <item>0x1f4ab</item>
+    </integer-array>
+    <integer-array name="em_1f4ac">
+        <item>0x1f4ac</item>
+    </integer-array>
+    <integer-array name="em_1f4ad">
+        <item>0x1f4ad</item>
+    </integer-array>
+    <integer-array name="em_1f4ae">
+        <item>0x1f4ae</item>
+    </integer-array>
+    <integer-array name="em_1f4af">
+        <item>0x1f4af</item>
+    </integer-array>
+    <integer-array name="em_1f4b2">
+        <item>0x1f4b2</item>
+    </integer-array>
+    <integer-array name="em_1f4b3">
+        <item>0x1f4b3</item>
+    </integer-array>
+    <integer-array name="em_1f4b4">
+        <item>0x1f4b4</item>
+    </integer-array>
+    <integer-array name="em_1f4b5">
+        <item>0x1f4b5</item>
+    </integer-array>
+    <integer-array name="em_1f4b6">
+        <item>0x1f4b6</item>
+    </integer-array>
+    <integer-array name="em_1f4b7">
+        <item>0x1f4b7</item>
+    </integer-array>
+    <integer-array name="em_1f4b8">
+        <item>0x1f4b8</item>
+    </integer-array>
+    <integer-array name="em_1f4be">
+        <item>0x1f4be</item>
+    </integer-array>
+    <integer-array name="em_1f4c1">
+        <item>0x1f4c1</item>
+    </integer-array>
+    <integer-array name="em_1f4c2">
+        <item>0x1f4c2</item>
+    </integer-array>
+    <integer-array name="em_1f4c3">
+        <item>0x1f4c3</item>
+    </integer-array>
+    <integer-array name="em_1f4c4">
+        <item>0x1f4c4</item>
+    </integer-array>
+    <integer-array name="em_1f4c5">
+        <item>0x1f4c5</item>
+    </integer-array>
+    <integer-array name="em_1f4c6">
+        <item>0x1f4c6</item>
+    </integer-array>
+    <integer-array name="em_1f4c7">
+        <item>0x1f4c7</item>
+    </integer-array>
+    <integer-array name="em_1f4c8">
+        <item>0x1f4c8</item>
+    </integer-array>
+    <integer-array name="em_1f4c9">
+        <item>0x1f4c9</item>
+    </integer-array>
+    <integer-array name="em_1f4ca">
+        <item>0x1f4ca</item>
+    </integer-array>
+    <integer-array name="em_1f4cb">
+        <item>0x1f4cb</item>
+    </integer-array>
+    <integer-array name="em_1f4cc">
+        <item>0x1f4cc</item>
+    </integer-array>
+    <integer-array name="em_1f4cd">
+        <item>0x1f4cd</item>
+    </integer-array>
+    <integer-array name="em_1f4ce">
+        <item>0x1f4ce</item>
+    </integer-array>
+    <integer-array name="em_1f4cf">
+        <item>0x1f4cf</item>
+    </integer-array>
+    <integer-array name="em_1f4d0">
+        <item>0x1f4d0</item>
+    </integer-array>
+    <integer-array name="em_1f4d1">
+        <item>0x1f4d1</item>
+    </integer-array>
+    <integer-array name="em_1f4d2">
+        <item>0x1f4d2</item>
+    </integer-array>
+    <integer-array name="em_1f4d3">
+        <item>0x1f4d3</item>
+    </integer-array>
+    <integer-array name="em_1f4d4">
+        <item>0x1f4d4</item>
+    </integer-array>
+    <integer-array name="em_1f4d5">
+        <item>0x1f4d5</item>
+    </integer-array>
+    <integer-array name="em_1f4d7">
+        <item>0x1f4d7</item>
+    </integer-array>
+    <integer-array name="em_1f4d8">
+        <item>0x1f4d8</item>
+    </integer-array>
+    <integer-array name="em_1f4d9">
+        <item>0x1f4d9</item>
+    </integer-array>
+    <integer-array name="em_1f4da">
+        <item>0x1f4da</item>
+    </integer-array>
+    <integer-array name="em_1f4db">
+        <item>0x1f4db</item>
+    </integer-array>
+    <integer-array name="em_1f4dc">
+        <item>0x1f4dc</item>
+    </integer-array>
+    <integer-array name="em_1f4de">
+        <item>0x1f4de</item>
+    </integer-array>
+    <integer-array name="em_1f4df">
+        <item>0x1f4df</item>
+    </integer-array>
+    <integer-array name="em_1f4e4">
+        <item>0x1f4e4</item>
+    </integer-array>
+    <integer-array name="em_1f4e5">
+        <item>0x1f4e5</item>
+    </integer-array>
+    <integer-array name="em_1f4e6">
+        <item>0x1f4e6</item>
+    </integer-array>
+    <integer-array name="em_1f4e7">
+        <item>0x1f4e7</item>
+    </integer-array>
+    <integer-array name="em_1f4e8">
+        <item>0x1f4e8</item>
+    </integer-array>
+    <integer-array name="em_1f4ea">
+        <item>0x1f4ea</item>
+    </integer-array>
+    <integer-array name="em_1f4ec">
+        <item>0x1f4ec</item>
+    </integer-array>
+    <integer-array name="em_1f4ed">
+        <item>0x1f4ed</item>
+    </integer-array>
+    <integer-array name="em_1f4ef">
+        <item>0x1f4ef</item>
+    </integer-array>
+    <integer-array name="em_1f4f0">
+        <item>0x1f4f0</item>
+    </integer-array>
+    <integer-array name="em_1f4f5">
+        <item>0x1f4f5</item>
+    </integer-array>
+    <integer-array name="em_1f4f9">
+        <item>0x1f4f9</item>
+    </integer-array>
+    <integer-array name="em_1f500">
+        <item>0x1f500</item>
+    </integer-array>
+    <integer-array name="em_1f501">
+        <item>0x1f501</item>
+    </integer-array>
+    <integer-array name="em_1f502">
+        <item>0x1f502</item>
+    </integer-array>
+    <integer-array name="em_1f503">
+        <item>0x1f503</item>
+    </integer-array>
+    <integer-array name="em_1f504">
+        <item>0x1f504</item>
+    </integer-array>
+    <integer-array name="em_1f505">
+        <item>0x1f505</item>
+    </integer-array>
+    <integer-array name="em_1f506">
+        <item>0x1f506</item>
+    </integer-array>
+    <integer-array name="em_1f507">
+        <item>0x1f507</item>
+    </integer-array>
+    <integer-array name="em_1f508">
+        <item>0x1f508</item>
+    </integer-array>
+    <integer-array name="em_1f509">
+        <item>0x1f509</item>
+    </integer-array>
+    <integer-array name="em_1f50b">
+        <item>0x1f50b</item>
+    </integer-array>
+    <integer-array name="em_1f50c">
+        <item>0x1f50c</item>
+    </integer-array>
+    <integer-array name="em_1f50e">
+        <item>0x1f50e</item>
+    </integer-array>
+    <integer-array name="em_1f50f">
+        <item>0x1f50f</item>
+    </integer-array>
+    <integer-array name="em_1f510">
+        <item>0x1f510</item>
+    </integer-array>
+    <integer-array name="em_1f515">
+        <item>0x1f515</item>
+    </integer-array>
+    <integer-array name="em_1f516">
+        <item>0x1f516</item>
+    </integer-array>
+    <integer-array name="em_1f517">
+        <item>0x1f517</item>
+    </integer-array>
+    <integer-array name="em_1f518">
+        <item>0x1f518</item>
+    </integer-array>
+    <integer-array name="em_1f519">
+        <item>0x1f519</item>
+    </integer-array>
+    <integer-array name="em_1f51a">
+        <item>0x1f51a</item>
+    </integer-array>
+    <integer-array name="em_1f51b">
+        <item>0x1f51b</item>
+    </integer-array>
+    <integer-array name="em_1f51c">
+        <item>0x1f51c</item>
+    </integer-array>
+    <integer-array name="em_1f51f">
+        <item>0x1f51f</item>
+    </integer-array>
+    <integer-array name="em_1f520">
+        <item>0x1f520</item>
+    </integer-array>
+    <integer-array name="em_1f521">
+        <item>0x1f521</item>
+    </integer-array>
+    <integer-array name="em_1f522">
+        <item>0x1f522</item>
+    </integer-array>
+    <integer-array name="em_1f523">
+        <item>0x1f523</item>
+    </integer-array>
+    <integer-array name="em_1f524">
+        <item>0x1f524</item>
+    </integer-array>
+    <integer-array name="em_1f526">
+        <item>0x1f526</item>
+    </integer-array>
+    <integer-array name="em_1f527">
+        <item>0x1f527</item>
+    </integer-array>
+    <integer-array name="em_1f529">
+        <item>0x1f529</item>
+    </integer-array>
+    <integer-array name="em_1f52a">
+        <item>0x1f52a</item>
+    </integer-array>
+    <integer-array name="em_1f52c">
+        <item>0x1f52c</item>
+    </integer-array>
+    <integer-array name="em_1f52d">
+        <item>0x1f52d</item>
+    </integer-array>
+    <integer-array name="em_1f52e">
+        <item>0x1f52e</item>
+    </integer-array>
+    <integer-array name="em_1f535">
+        <item>0x1f535</item>
+    </integer-array>
+    <integer-array name="em_1f536">
+        <item>0x1f536</item>
+    </integer-array>
+    <integer-array name="em_1f537">
+        <item>0x1f537</item>
+    </integer-array>
+    <integer-array name="em_1f538">
+        <item>0x1f538</item>
+    </integer-array>
+    <integer-array name="em_1f539">
+        <item>0x1f539</item>
+    </integer-array>
+    <integer-array name="em_1f53a">
+        <item>0x1f53a</item>
+    </integer-array>
+    <integer-array name="em_1f53b">
+        <item>0x1f53b</item>
+    </integer-array>
+    <integer-array name="em_1f53c">
+        <item>0x1f53c</item>
+    </integer-array>
+    <integer-array name="em_1f53d">
+        <item>0x1f53d</item>
+    </integer-array>
+    <integer-array name="em_1f55c">
+        <item>0x1f55c</item>
+    </integer-array>
+    <integer-array name="em_1f55d">
+        <item>0x1f55d</item>
+    </integer-array>
+    <integer-array name="em_1f55e">
+        <item>0x1f55e</item>
+    </integer-array>
+    <integer-array name="em_1f55f">
+        <item>0x1f55f</item>
+    </integer-array>
+    <integer-array name="em_1f560">
+        <item>0x1f560</item>
+    </integer-array>
+    <integer-array name="em_1f561">
+        <item>0x1f561</item>
+    </integer-array>
+    <integer-array name="em_1f562">
+        <item>0x1f562</item>
+    </integer-array>
+    <integer-array name="em_1f563">
+        <item>0x1f563</item>
+    </integer-array>
+    <integer-array name="em_1f564">
+        <item>0x1f564</item>
+    </integer-array>
+    <integer-array name="em_1f565">
+        <item>0x1f565</item>
+    </integer-array>
+    <integer-array name="em_1f566">
+        <item>0x1f566</item>
+    </integer-array>
+    <integer-array name="em_1f567">
+        <item>0x1f567</item>
+    </integer-array>
+    <integer-array name="em_1f5fe">
+        <item>0x1f5fe</item>
+    </integer-array>
+    <integer-array name="em_1f5ff">
+        <item>0x1f5ff</item>
+    </integer-array>
+    <integer-array name="em_1f600">
+        <item>0x1f600</item>
+    </integer-array>
+    <integer-array name="em_1f605">
+        <item>0x1f605</item>
+    </integer-array>
+    <integer-array name="em_1f606">
+        <item>0x1f606</item>
+    </integer-array>
+    <integer-array name="em_1f607">
+        <item>0x1f607</item>
+    </integer-array>
+    <integer-array name="em_1f608">
+        <item>0x1f608</item>
+    </integer-array>
+    <integer-array name="em_1f60b">
+        <item>0x1f60b</item>
+    </integer-array>
+    <integer-array name="em_1f60e">
+        <item>0x1f60e</item>
+    </integer-array>
+    <integer-array name="em_1f610">
+        <item>0x1f610</item>
+    </integer-array>
+    <integer-array name="em_1f611">
+        <item>0x1f611</item>
+    </integer-array>
+    <integer-array name="em_1f615">
+        <item>0x1f615</item>
+    </integer-array>
+    <integer-array name="em_1f617">
+        <item>0x1f617</item>
+    </integer-array>
+    <integer-array name="em_1f619">
+        <item>0x1f619</item>
+    </integer-array>
+    <integer-array name="em_1f61b">
+        <item>0x1f61b</item>
+    </integer-array>
+    <integer-array name="em_1f61f">
+        <item>0x1f61f</item>
+    </integer-array>
+    <integer-array name="em_1f624">
+        <item>0x1f624</item>
+    </integer-array>
+    <integer-array name="em_1f626">
+        <item>0x1f626</item>
+    </integer-array>
+    <integer-array name="em_1f627">
+        <item>0x1f627</item>
+    </integer-array>
+    <integer-array name="em_1f629">
+        <item>0x1f629</item>
+    </integer-array>
+    <integer-array name="em_1f62b">
+        <item>0x1f62b</item>
+    </integer-array>
+    <integer-array name="em_1f62c">
+        <item>0x1f62c</item>
+    </integer-array>
+    <integer-array name="em_1f62e">
+        <item>0x1f62e</item>
+    </integer-array>
+    <integer-array name="em_1f62f">
+        <item>0x1f62f</item>
+    </integer-array>
+    <integer-array name="em_1f634">
+        <item>0x1f634</item>
+    </integer-array>
+    <integer-array name="em_1f635">
+        <item>0x1f635</item>
+    </integer-array>
+    <integer-array name="em_1f636">
+        <item>0x1f636</item>
+    </integer-array>
+    <integer-array name="em_1f638">
+        <item>0x1f638</item>
+    </integer-array>
+    <integer-array name="em_1f639">
+        <item>0x1f639</item>
+    </integer-array>
+    <integer-array name="em_1f63a">
+        <item>0x1f63a</item>
+    </integer-array>
+    <integer-array name="em_1f63b">
+        <item>0x1f63b</item>
+    </integer-array>
+    <integer-array name="em_1f63c">
+        <item>0x1f63c</item>
+    </integer-array>
+    <integer-array name="em_1f63d">
+        <item>0x1f63d</item>
+    </integer-array>
+    <integer-array name="em_1f63e">
+        <item>0x1f63e</item>
+    </integer-array>
+    <integer-array name="em_1f63f">
+        <item>0x1f63f</item>
+    </integer-array>
+    <integer-array name="em_1f640">
+        <item>0x1f640</item>
+    </integer-array>
+    <integer-array name="em_1f648">
+        <item>0x1f648</item>
+    </integer-array>
+    <integer-array name="em_1f649">
+        <item>0x1f649</item>
+    </integer-array>
+    <integer-array name="em_1f64a">
+        <item>0x1f64a</item>
+    </integer-array>
+    <integer-array name="em_1f64b">
+        <item>0x1f64b</item>
+    </integer-array>
+    <integer-array name="em_1f64d">
+        <item>0x1f64d</item>
+    </integer-array>
+    <integer-array name="em_1f64e">
+        <item>0x1f64e</item>
+    </integer-array>
+    <integer-array name="em_1f681">
+        <item>0x1f681</item>
+    </integer-array>
+    <integer-array name="em_1f682">
+        <item>0x1f682</item>
+    </integer-array>
+    <integer-array name="em_1f686">
+        <item>0x1f686</item>
+    </integer-array>
+    <integer-array name="em_1f688">
+        <item>0x1f688</item>
+    </integer-array>
+    <integer-array name="em_1f68a">
+        <item>0x1f68a</item>
+    </integer-array>
+    <integer-array name="em_1f68b">
+        <item>0x1f68b</item>
+    </integer-array>
+    <integer-array name="em_1f68d">
+        <item>0x1f68d</item>
+    </integer-array>
+    <integer-array name="em_1f68e">
+        <item>0x1f68e</item>
+    </integer-array>
+    <integer-array name="em_1f690">
+        <item>0x1f690</item>
+    </integer-array>
+    <integer-array name="em_1f694">
+        <item>0x1f694</item>
+    </integer-array>
+    <integer-array name="em_1f696">
+        <item>0x1f696</item>
+    </integer-array>
+    <integer-array name="em_1f698">
+        <item>0x1f698</item>
+    </integer-array>
+    <integer-array name="em_1f69b">
+        <item>0x1f69b</item>
+    </integer-array>
+    <integer-array name="em_1f69c">
+        <item>0x1f69c</item>
+    </integer-array>
+    <integer-array name="em_1f69d">
+        <item>0x1f69d</item>
+    </integer-array>
+    <integer-array name="em_1f69e">
+        <item>0x1f69e</item>
+    </integer-array>
+    <integer-array name="em_1f69f">
+        <item>0x1f69f</item>
+    </integer-array>
+    <integer-array name="em_1f6a0">
+        <item>0x1f6a0</item>
+    </integer-array>
+    <integer-array name="em_1f6a1">
+        <item>0x1f6a1</item>
+    </integer-array>
+    <integer-array name="em_1f6a3">
+        <item>0x1f6a3</item>
+    </integer-array>
+    <integer-array name="em_1f6a6">
+        <item>0x1f6a6</item>
+    </integer-array>
+    <integer-array name="em_1f6a8">
+        <item>0x1f6a8</item>
+    </integer-array>
+    <integer-array name="em_1f6a9">
+        <item>0x1f6a9</item>
+    </integer-array>
+    <integer-array name="em_1f6aa">
+        <item>0x1f6aa</item>
+    </integer-array>
+    <integer-array name="em_1f6ab">
+        <item>0x1f6ab</item>
+    </integer-array>
+    <integer-array name="em_1f6ae">
+        <item>0x1f6ae</item>
+    </integer-array>
+    <integer-array name="em_1f6af">
+        <item>0x1f6af</item>
+    </integer-array>
+    <integer-array name="em_1f6b0">
+        <item>0x1f6b0</item>
+    </integer-array>
+    <integer-array name="em_1f6b1">
+        <item>0x1f6b1</item>
+    </integer-array>
+    <integer-array name="em_1f6b3">
+        <item>0x1f6b3</item>
+    </integer-array>
+    <integer-array name="em_1f6b4">
+        <item>0x1f6b4</item>
+    </integer-array>
+    <integer-array name="em_1f6b5">
+        <item>0x1f6b5</item>
+    </integer-array>
+    <integer-array name="em_1f6b7">
+        <item>0x1f6b7</item>
+    </integer-array>
+    <integer-array name="em_1f6b8">
+        <item>0x1f6b8</item>
+    </integer-array>
+    <integer-array name="em_1f6bf">
+        <item>0x1f6bf</item>
+    </integer-array>
+    <integer-array name="em_1f6c1">
+        <item>0x1f6c1</item>
+    </integer-array>
+    <integer-array name="em_1f6c2">
+        <item>0x1f6c2</item>
+    </integer-array>
+    <integer-array name="em_1f6c3">
+        <item>0x1f6c3</item>
+    </integer-array>
+    <integer-array name="em_1f6c4">
+        <item>0x1f6c4</item>
+    </integer-array>
+    <integer-array name="em_1f6c5">
+        <item>0x1f6c5</item>
+    </integer-array>
+    <integer-array name="em_203c">
+        <item>0x203c</item>
+    </integer-array>
+    <integer-array name="em_2049">
+        <item>0x2049</item>
+    </integer-array>
+    <integer-array name="em_2139">
+        <item>0x2139</item>
+    </integer-array>
+    <integer-array name="em_2194">
+        <item>0x2194</item>
+    </integer-array>
+    <integer-array name="em_2195">
+        <item>0x2195</item>
+    </integer-array>
+    <integer-array name="em_21a9">
+        <item>0x21a9</item>
+    </integer-array>
+    <integer-array name="em_21aa">
+        <item>0x21aa</item>
+    </integer-array>
+    <integer-array name="em_231a">
+        <item>0x231a</item>
+    </integer-array>
+    <integer-array name="em_231b">
+        <item>0x231b</item>
+    </integer-array>
+    <integer-array name="em_23eb">
+        <item>0x23eb</item>
+    </integer-array>
+    <integer-array name="em_23ec">
+        <item>0x23ec</item>
+    </integer-array>
+    <integer-array name="em_23f0">
+        <item>0x23f0</item>
+    </integer-array>
+    <integer-array name="em_23f3">
+        <item>0x23f3</item>
+    </integer-array>
+    <integer-array name="em_24c2">
+        <item>0x24c2</item>
+    </integer-array>
+    <integer-array name="em_25aa">
+        <item>0x25aa</item>
+    </integer-array>
+    <integer-array name="em_25ab">
+        <item>0x25ab</item>
+    </integer-array>
+    <integer-array name="em_25fb">
+        <item>0x25fb</item>
+    </integer-array>
+    <integer-array name="em_25fc">
+        <item>0x25fc</item>
+    </integer-array>
+    <integer-array name="em_25fd">
+        <item>0x25fd</item>
+    </integer-array>
+    <integer-array name="em_25fe">
+        <item>0x25fe</item>
+    </integer-array>
+    <integer-array name="em_2611">
+        <item>0x2611</item>
+    </integer-array>
+    <integer-array name="em_267b">
+        <item>0x267b</item>
+    </integer-array>
+    <integer-array name="em_2693">
+        <item>0x2693</item>
+    </integer-array>
+    <integer-array name="em_26aa">
+        <item>0x26aa</item>
+    </integer-array>
+    <integer-array name="em_26ab">
+        <item>0x26ab</item>
+    </integer-array>
+    <integer-array name="em_26c5">
+        <item>0x26c5</item>
+    </integer-array>
+    <integer-array name="em_26d4">
+        <item>0x26d4</item>
+    </integer-array>
+    <integer-array name="em_2705">
+        <item>0x2705</item>
+    </integer-array>
+    <integer-array name="em_2709">
+        <item>0x2709</item>
+    </integer-array>
+    <integer-array name="em_270f">
+        <item>0x270f</item>
+    </integer-array>
+    <integer-array name="em_2712">
+        <item>0x2712</item>
+    </integer-array>
+    <integer-array name="em_2714">
+        <item>0x2714</item>
+    </integer-array>
+    <integer-array name="em_2716">
+        <item>0x2716</item>
+    </integer-array>
+    <integer-array name="em_2744">
+        <item>0x2744</item>
+    </integer-array>
+    <integer-array name="em_2747">
+        <item>0x2747</item>
+    </integer-array>
+    <integer-array name="em_274e">
+        <item>0x274e</item>
+    </integer-array>
+    <integer-array name="em_2795">
+        <item>0x2795</item>
+    </integer-array>
+    <integer-array name="em_2796">
+        <item>0x2796</item>
+    </integer-array>
+    <integer-array name="em_2797">
+        <item>0x2797</item>
+    </integer-array>
+    <integer-array name="em_27b0">
+        <item>0x27b0</item>
+    </integer-array>
+    <integer-array name="em_2934">
+        <item>0x2934</item>
+    </integer-array>
+    <integer-array name="em_2935">
+        <item>0x2935</item>
+    </integer-array>
+    <integer-array name="em_2b1b">
+        <item>0x2b1b</item>
+    </integer-array>
+    <integer-array name="em_2b1c">
+        <item>0x2b1c</item>
+    </integer-array>
+    <integer-array name="em_3030">
+        <item>0x3030</item>
+    </integer-array>
+    <string-array name="fileEndingImage">
+        <item>.png</item>
+        <item>.gif</item>
+        <item>.jpg</item>
+        <item>.jpeg</item>
+        <item>.bmp</item>
+    </string-array>
+    <string-array name="fileEndingAudio">
+        <item>.mp3</item>
+        <item>.wav</item>
+        <item>.ogg</item>
+        <item>.midi</item>
+    </string-array>
+    <string-array name="fileEndingVideo">
+        <item>.mp4</item>
+        <item>.rmvb</item>
+        <item>.avi</item>
+        <item>.flv</item>
+        <item>.3gp</item>
+    </string-array>
+    <string-array name="fileEndingPackage">
+        <item>.jar</item>
+        <item>.zip</item>
+        <item>.rar</item>
+        <item>.gz</item>
+        <item>.apk</item>
+        <item>.img</item>
+    </string-array>
+    <string-array name="fileEndingWebText">
+        <item>.htm</item>
+        <item>.html</item>
+        <item>.php</item>
+        <item>.jsp</item>
+    </string-array>
+    <string-array name="fileEndingText">
+        <item>.txt</item>
+        <item>.java</item>
+        <item>.c</item>
+        <item>.cpp</item>
+        <item>.py</item>
+        <item>.xml</item>
+        <item>.json</item>
+        <item>.log</item>
+    </string-array>
+    <string-array name="fileEndingWord">
+        <item>.doc</item>
+        <item>.docx</item>
+    </string-array>
+    <string-array name="fileEndingExcel">
+        <item>.xls</item>
+        <item>.xlsx</item>
+    </string-array>
+    <string-array name="fileEndingPPT">
+        <item>.ppt</item>
+        <item>.pptx</item>
+    </string-array>
+    <string-array name="fileEndingPdf">
+        <item>.pdf</item>
+    </string-array>
+    <integer-array name="ios_emoji_two_unicode">
+        <item>0x1f1ef</item>
+        <item>0x1f1f5</item>
+        <item>0x1f1f0</item>
+        <item>0x1f1f7</item>
+        <item>0x1f1e8</item>
+        <item>0x1f1f3</item>
+        <item>0x1f1fa</item>
+        <item>0x1f1f8</item>
+        <item>0x1f1eb</item>
+        <item>0x1f1f7</item>
+        <item>0x1f1ea</item>
+        <item>0x1f1f8</item>
+        <item>0x1f1ee</item>
+        <item>0x1f1f9</item>
+        <item>0x1f1f7</item>
+        <item>0x1f1fa</item>
+        <item>0x1f1ec</item>
+        <item>0x1f1e7</item>
+        <item>0x1f1e9</item>
+        <item>0x1f1ea</item>
+        <item>0x31</item>
+        <item>0x20e3</item>
+        <item>0x32</item>
+        <item>0x20e3</item>
+        <item>0x33</item>
+        <item>0x20e3</item>
+        <item>0x34</item>
+        <item>0x20e3</item>
+        <item>0x35</item>
+        <item>0x20e3</item>
+        <item>0x36</item>
+        <item>0x20e3</item>
+        <item>0x37</item>
+        <item>0x20e3</item>
+        <item>0x38</item>
+        <item>0x20e3</item>
+        <item>0x39</item>
+        <item>0x20e3</item>
+        <item>0x30</item>
+        <item>0x20e3</item>
+        <item>0x23</item>
+        <item>0x20e3</item>
+    </integer-array>
+    <integer-array name="ios_emoji_one_unicode">
+        <item>0x1f604</item>
+        <item>0x1f60a</item>
+        <item>0x1f603</item>
+        <item>0x263a</item>
+        <item>0x1f609</item>
+        <item>0x1f60d</item>
+        <item>0x1f618</item>
+        <item>0x1f61a</item>
+        <item>0x1f633</item>
+        <item>0x1f60c</item>
+        <item>0x1f601</item>
+        <item>0x1f61c</item>
+        <item>0x1f61d</item>
+        <item>0x1f612</item>
+        <item>0x1f60f</item>
+        <item>0x1f613</item>
+        <item>0x1f614</item>
+        <item>0x1f61e</item>
+        <item>0x1f616</item>
+        <item>0x1f625</item>
+        <item>0x1f630</item>
+        <item>0x1f628</item>
+        <item>0x1f623</item>
+        <item>0x1f622</item>
+        <item>0x1f62d</item>
+        <item>0x1f602</item>
+        <item>0x1f632</item>
+        <item>0x1f631</item>
+        <item>0x1f620</item>
+        <item>0x1f621</item>
+        <item>0x1f62a</item>
+        <item>0x1f637</item>
+        <item>0x1f47f</item>
+        <item>0x1f47d</item>
+        <item>0x1f49b</item>
+        <item>0x1f499</item>
+        <item>0x1f49c</item>
+        <item>0x1f497</item>
+        <item>0x1f49a</item>
+        <item>0x2764</item>
+        <item>0x1f494</item>
+        <item>0x1f493</item>
+        <item>0x1f498</item>
+        <item>0x2728</item>
+        <item>0x1f31f</item>
+        <item>0x1f4a2</item>
+        <item>0x2755</item>
+        <item>0x2754</item>
+        <item>0x1f4a4</item>
+        <item>0x1f4a8</item>
+        <item>0x1f4a6</item>
+        <item>0x1f3b6</item>
+        <item>0x1f3b5</item>
+        <item>0x1f525</item>
+        <item>0x1f4a9</item>
+        <item>0x1f44d</item>
+        <item>0x1f44e</item>
+        <item>0x1f44c</item>
+        <item>0x1f44a</item>
+        <item>0x270a</item>
+        <item>0x270c</item>
+        <item>0x1f44b</item>
+        <item>0x270b</item>
+        <item>0x1f450</item>
+        <item>0x1f446</item>
+        <item>0x1f447</item>
+        <item>0x1f449</item>
+        <item>0x1f448</item>
+        <item>0x1f64c</item>
+        <item>0x1f64f</item>
+        <item>0x261d</item>
+        <item>0x1f44f</item>
+        <item>0x1f4aa</item>
+        <item>0x1f6b6</item>
+        <item>0x1f3c3</item>
+        <item>0x1f46b</item>
+        <item>0x1f483</item>
+        <item>0x1f46f</item>
+        <item>0x1f646</item>
+        <item>0x1f645</item>
+        <item>0x1f481</item>
+        <item>0x1f647</item>
+        <item>0x1f48f</item>
+        <item>0x1f491</item>
+        <item>0x1f486</item>
+        <item>0x1f487</item>
+        <item>0x1f485</item>
+        <item>0x1f466</item>
+        <item>0x1f467</item>
+        <item>0x1f469</item>
+        <item>0x1f468</item>
+        <item>0x1f476</item>
+        <item>0x1f475</item>
+        <item>0x1f474</item>
+        <item>0x1f471</item>
+        <item>0x1f472</item>
+        <item>0x1f473</item>
+        <item>0x1f477</item>
+        <item>0x1f46e</item>
+        <item>0x1f47c</item>
+        <item>0x1f478</item>
+        <item>0x1f482</item>
+        <item>0x1f480</item>
+        <item>0x1f463</item>
+        <item>0x1f48b</item>
+        <item>0x1f444</item>
+        <item>0x1f442</item>
+        <item>0x1f440</item>
+        <item>0x1f443</item>
+        <item>0x2600</item>
+        <item>0x2614</item>
+        <item>0x2601</item>
+        <item>0x26c4</item>
+        <item>0x1f319</item>
+        <item>0x26a1</item>
+        <item>0x1f300</item>
+        <item>0x1f30a</item>
+        <item>0x1f431</item>
+        <item>0x1f436</item>
+        <item>0x1f42d</item>
+        <item>0x1f439</item>
+        <item>0x1f430</item>
+        <item>0x1f43a</item>
+        <item>0x1f438</item>
+        <item>0x1f42f</item>
+        <item>0x1f428</item>
+        <item>0x1f43b</item>
+        <item>0x1f437</item>
+        <item>0x1f42e</item>
+        <item>0x1f417</item>
+        <item>0x1f435</item>
+        <item>0x1f412</item>
+        <item>0x1f434</item>
+        <item>0x1f40e</item>
+        <item>0x1f42b</item>
+        <item>0x1f411</item>
+        <item>0x1f418</item>
+        <item>0x1f40d</item>
+        <item>0x1f426</item>
+        <item>0x1f424</item>
+        <item>0x1f414</item>
+        <item>0x1f427</item>
+        <item>0x1f41b</item>
+        <item>0x1f419</item>
+        <item>0x1f420</item>
+        <item>0x1f41f</item>
+        <item>0x1f433</item>
+        <item>0x1f42c</item>
+        <item>0x1f490</item>
+        <item>0x1f338</item>
+        <item>0x1f337</item>
+        <item>0x1f340</item>
+        <item>0x1f339</item>
+        <item>0x1f33b</item>
+        <item>0x1f33a</item>
+        <item>0x1f341</item>
+        <item>0x1f343</item>
+        <item>0x1f342</item>
+        <item>0x1f334</item>
+        <item>0x1f335</item>
+        <item>0x1f33e</item>
+        <item>0x1f41a</item>
+        <item>0x1f38d</item>
+        <item>0x1f49d</item>
+        <item>0x1f38e</item>
+        <item>0x1f392</item>
+        <item>0x1f393</item>
+        <item>0x1f38f</item>
+        <item>0x1f386</item>
+        <item>0x1f387</item>
+        <item>0x1f390</item>
+        <item>0x1f391</item>
+        <item>0x1f383</item>
+        <item>0x1f47b</item>
+        <item>0x1f385</item>
+        <item>0x1f384</item>
+        <item>0x1f381</item>
+        <item>0x1f514</item>
+        <item>0x1f389</item>
+        <item>0x1f388</item>
+        <item>0x1f4bf</item>
+        <item>0x1f4c0</item>
+        <item>0x1f4f7</item>
+        <item>0x1f3a5</item>
+        <item>0x1f4bb</item>
+        <item>0x1f4fa</item>
+        <item>0x1f4f1</item>
+        <item>0x1f4e0</item>
+        <item>0x260e</item>
+        <item>0x1f4bd</item>
+        <item>0x1f4fc</item>
+        <item>0x1f50a</item>
+        <item>0x1f4e2</item>
+        <item>0x1f4e3</item>
+        <item>0x1f4fb</item>
+        <item>0x1f4e1</item>
+        <item>0x27bf</item>
+        <item>0x1f50d</item>
+        <item>0x1f513</item>
+        <item>0x1f512</item>
+        <item>0x1f511</item>
+        <item>0x2702</item>
+        <item>0x1f528</item>
+        <item>0x1f4a1</item>
+        <item>0x1f4f2</item>
+        <item>0x1f4e9</item>
+        <item>0x1f4eb</item>
+        <item>0x1f4ee</item>
+        <item>0x1f6c0</item>
+        <item>0x1f6bd</item>
+        <item>0x1f4ba</item>
+        <item>0x1f4b0</item>
+        <item>0x1f531</item>
+        <item>0x1f6ac</item>
+        <item>0x1f4a3</item>
+        <item>0x1f52b</item>
+        <item>0x1f48a</item>
+        <item>0x1f489</item>
+        <item>0x1f3c8</item>
+        <item>0x1f3c0</item>
+        <item>0x26bd</item>
+        <item>0x26be</item>
+        <item>0x1f3be</item>
+        <item>0x26f3</item>
+        <item>0x1f3b1</item>
+        <item>0x1f3ca</item>
+        <item>0x1f3c4</item>
+        <item>0x1f3bf</item>
+        <item>0x2660</item>
+        <item>0x2665</item>
+        <item>0x2663</item>
+        <item>0x2666</item>
+        <item>0x1f3c6</item>
+        <item>0x1f47e</item>
+        <item>0x1f3af</item>
+        <item>0x1f004</item>
+        <item>0x1f3ac</item>
+        <item>0x1f4dd</item>
+        <item>0x1f4d6</item>
+        <item>0x1f3a8</item>
+        <item>0x1f3a4</item>
+        <item>0x1f3a7</item>
+        <item>0x1f3ba</item>
+        <item>0x1f3b7</item>
+        <item>0x1f3b8</item>
+        <item>0x303d</item>
+        <item>0x1f45f</item>
+        <item>0x1f461</item>
+        <item>0x1f460</item>
+        <item>0x1f462</item>
+        <item>0x1f455</item>
+        <item>0x1f454</item>
+        <item>0x1f457</item>
+        <item>0x1f458</item>
+        <item>0x1f459</item>
+        <item>0x1f380</item>
+        <item>0x1f3a9</item>
+        <item>0x1f451</item>
+        <item>0x1f452</item>
+        <item>0x1f302</item>
+        <item>0x1f4bc</item>
+        <item>0x1f45c</item>
+        <item>0x1f484</item>
+        <item>0x1f48d</item>
+        <item>0x1f48e</item>
+        <item>0x2615</item>
+        <item>0x1f375</item>
+        <item>0x1f37a</item>
+        <item>0x1f37b</item>
+        <item>0x1f378</item>
+        <item>0x1f376</item>
+        <item>0x1f374</item>
+        <item>0x1f354</item>
+        <item>0x1f35f</item>
+        <item>0x1f35d</item>
+        <item>0x1f35b</item>
+        <item>0x1f371</item>
+        <item>0x1f363</item>
+        <item>0x1f359</item>
+        <item>0x1f358</item>
+        <item>0x1f35a</item>
+        <item>0x1f35c</item>
+        <item>0x1f372</item>
+        <item>0x1f35e</item>
+        <item>0x1f373</item>
+        <item>0x1f362</item>
+        <item>0x1f361</item>
+        <item>0x1f366</item>
+        <item>0x1f367</item>
+        <item>0x1f382</item>
+        <item>0x1f370</item>
+        <item>0x1f34e</item>
+        <item>0x1f34a</item>
+        <item>0x1f349</item>
+        <item>0x1f353</item>
+        <item>0x1f346</item>
+        <item>0x1f345</item>
+        <item>0x1f3e0</item>
+        <item>0x1f3eb</item>
+        <item>0x1f3e2</item>
+        <item>0x1f3e3</item>
+        <item>0x1f3e5</item>
+        <item>0x1f3e6</item>
+        <item>0x1f3ea</item>
+        <item>0x1f3e9</item>
+        <item>0x1f3e8</item>
+        <item>0x1f492</item>
+        <item>0x26ea</item>
+        <item>0x1f3ec</item>
+        <item>0x1f307</item>
+        <item>0x1f306</item>
+        <item>0x1f3e7</item>
+        <item>0x1f3ef</item>
+        <item>0x1f3f0</item>
+        <item>0x26fa</item>
+        <item>0x1f3ed</item>
+        <item>0x1f5fc</item>
+        <item>0x1f5fb</item>
+        <item>0x1f304</item>
+        <item>0x1f305</item>
+        <item>0x1f303</item>
+        <item>0x1f5fd</item>
+        <item>0x1f308</item>
+        <item>0x1f3a1</item>
+        <item>0x26f2</item>
+        <item>0x1f3a2</item>
+        <item>0x1f6a2</item>
+        <item>0x1f6a4</item>
+        <item>0x26f5</item>
+        <item>0x2708</item>
+        <item>0x1f680</item>
+        <item>0x1f6b2</item>
+        <item>0x1f699</item>
+        <item>0x1f697</item>
+        <item>0x1f695</item>
+        <item>0x1f68c</item>
+        <item>0x1f693</item>
+        <item>0x1f692</item>
+        <item>0x1f691</item>
+        <item>0x1f69a</item>
+        <item>0x1f683</item>
+        <item>0x1f689</item>
+        <item>0x1f684</item>
+        <item>0x1f685</item>
+        <item>0x1f3ab</item>
+        <item>0x26fd</item>
+        <item>0x1f6a5</item>
+        <item>0x26a0</item>
+        <item>0x1f6a7</item>
+        <item>0x1f530</item>
+        <item>0x1f3b0</item>
+        <item>0x1f68f</item>
+        <item>0x1f488</item>
+        <item>0x2668</item>
+        <item>0x1f3c1</item>
+        <item>0x1f38c</item>
+        <item>0x2b06</item>
+        <item>0x2b07</item>
+        <item>0x2b05</item>
+        <item>0x27a1</item>
+        <item>0x2197</item>
+        <item>0x2196</item>
+        <item>0x2198</item>
+        <item>0x2199</item>
+        <item>0x25c0</item>
+        <item>0x25b6</item>
+        <item>0x23ea</item>
+        <item>0x23e9</item>
+        <item>0x1f197</item>
+        <item>0x1f195</item>
+        <item>0x1f51d</item>
+        <item>0x1f199</item>
+        <item>0x1f192</item>
+        <item>0x1f3a6</item>
+        <item>0x1f201</item>
+        <item>0x1f4f6</item>
+        <item>0x1f235</item>
+        <item>0x1f233</item>
+        <item>0x1f250</item>
+        <item>0x1f239</item>
+        <item>0x1f22f</item>
+        <item>0x1f23a</item>
+        <item>0x1f236</item>
+        <item>0x1f21a</item>
+        <item>0x1f237</item>
+        <item>0x1f238</item>
+        <item>0x1f202</item>
+        <item>0x1f6bb</item>
+        <item>0x1f6b9</item>
+        <item>0x1f6ba</item>
+        <item>0x1f6bc</item>
+        <item>0x1f6ad</item>
+        <item>0x1f17f</item>
+        <item>0x267f</item>
+        <item>0x1f687</item>
+        <item>0x1f6be</item>
+        <item>0x3299</item>
+        <item>0x3297</item>
+        <item>0x1f51e</item>
+        <item>0x1f194</item>
+        <item>0x2733</item>
+        <item>0x2734</item>
+        <item>0x1f49f</item>
+        <item>0x1f19a</item>
+        <item>0x1f4f3</item>
+        <item>0x1f4f4</item>
+        <item>0x1f4b9</item>
+        <item>0x1f4b1</item>
+        <item>0x2648</item>
+        <item>0x2649</item>
+        <item>0x264a</item>
+        <item>0x264b</item>
+        <item>0x264c</item>
+        <item>0x264d</item>
+        <item>0x264e</item>
+        <item>0x264f</item>
+        <item>0x2650</item>
+        <item>0x2651</item>
+        <item>0x2652</item>
+        <item>0x2653</item>
+        <item>0x26ce</item>
+        <item>0x1f52f</item>
+        <item>0x1f170</item>
+        <item>0x1f171</item>
+        <item>0x1f18e</item>
+        <item>0x1f17e</item>
+        <item>0x1f532</item>
+        <item>0x1f534</item>
+        <item>0x1f533</item>
+        <item>0x1f55b</item>
+        <item>0x1f550</item>
+        <item>0x1f551</item>
+        <item>0x1f552</item>
+        <item>0x1f553</item>
+        <item>0x1f554</item>
+        <item>0x1f555</item>
+        <item>0x1f556</item>
+        <item>0x1f557</item>
+        <item>0x1f558</item>
+        <item>0x1f559</item>
+        <item>0x1f55a</item>
+        <item>0x2b55</item>
+        <item>0x274c</item>
+        <item>0xa9</item>
+        <item>0xae</item>
+        <item>0x2122</item>
+    </integer-array>
+    <integer-array name="no_emoji_id">
+        <item>0x1f600</item>
+        <item>0x1f617</item>
+        <item>0x1f619</item>
+        <item>0x1f61b</item>
+        <item>0x1f605</item>
+        <item>0x1f629</item>
+        <item>0x1f62b</item>
+        <item>0x1f624</item>
+        <item>0x1f606</item>
+        <item>0x1f60b</item>
+        <item>0x1f635</item>
+        <item>0x1f634</item>
+        <item>0x1f60b</item>
+        <item>0x1f61f</item>
+        <item>0x1f626</item>
+        <item>0x1f627</item>
+        <item>0x1f608</item>
+        <item>0x1f62e</item>
+        <item>0x1f62c</item>
+        <item>0x1f610</item>
+        <item>0x1f615</item>
+        <item>0x1f62f</item>
+        <item>0x1f636</item>
+        <item>0x1f607</item>
+        <item>0x1f611</item>
+    </integer-array>
+    <string-array name="registeractivity_question">
+        <item>Your secret word?</item>
+        <item>Name of hometown?</item>
+        <item>"Favorite pet's name?"</item>
+        <item>Your childhood hero?</item>
+        <item>Your lucky number?</item>
+    </string-array>
+    <string-array name="registeractivity_country">
+        <item>United States</item>
+        <item>China</item>
+    </string-array>
+    <string-array name="registeractivity_country_code">
+        <item>USA</item>
+        <item>CHN</item>
+    </string-array>
+</resources>

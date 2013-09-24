@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/searchbarlayout" android:background="@drawable/sendbarbg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <EditText android:textSize="14.0sp" android:textColor="@color/black" android:gravity="center_vertical" android:id="@id/search_input" android:background="@drawable/topsearchbar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="9.0dip" android:layout_marginRight="10.0dip" android:hint="@string/search" android:maxLines="5" android:drawableLeft="@drawable/searchicon" android:layout_toLeftOf="@id/search" />
+        <Button android:textSize="13.0sp" android:id="@id/search" android:background="@drawable/search_button_selector" android:layout_width="wrap_content" android:layout_height="35.0dip" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:text="@string/cancle" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <ListView android:id="@id/search_listview" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@color/white" android:cacheColorHint="@color/white" />
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ffdbe2ed" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_horizontal" android:background="#ffdbe2ed" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="12.0sp" android:textColor="#ffaeaeae" android:id="@id/tv_sendtimet" android:background="#ffdbe2ed" android:padding="2.0dip" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </RelativeLayout>
+</LinearLayout>

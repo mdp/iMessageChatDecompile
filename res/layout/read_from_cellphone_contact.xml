@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@drawable/uibuttonbardefaultbackgroundtop" android:layout_width="fill_parent" android:layout_height="45.0dip">
+        <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/read_from_cellphone_contact_head" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        <Button android:textSize="13.0sp" android:textColor="@color/window_bg" android:id="@id/read_from_cellphone_contact_back" android:background="@drawable/backbuttonselector" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="3.0dip" android:minWidth="55.0dip" android:minHeight="45.0dip" android:text="@string/aboutimessage_back" android:layout_centerVertical="true" />
+        <Button android:textSize="13.0sp" android:textColor="@color/window_bg" android:id="@id/read_from_cellphone_contact_stop_buttom" android:background="@drawable/editsuccessbuttonselector" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:minWidth="55.0dip" android:minHeight="45.0dip" android:text="@string/read_from_cellphone_contact_stop" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:background="@color/window_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="left" android:orientation="vertical" android:background="@color/window_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="30.0dip" android:layout_marginRight="15.0dip">
+            <TextView android:textSize="16.0sp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/read_from_cellphone_contact_text" />
+        </LinearLayout>
+        <LinearLayout android:gravity="left" android:orientation="vertical" android:background="@color/window_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+            <TextView android:textSize="16.0sp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:text="@string/read_from_cellphone_contact_please_select_yourcountry_hint" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@color/window_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Spinner android:textSize="18.0sp" android:textColor="#ff1d1d1d" android:textColorHint="#ff666666" android:gravity="center" android:id="@id/read_from_cellphone_contact_country_list" android:background="@drawable/login_input" android:layout_width="wrap_content" android:layout_height="40.0dip" android:layout_marginLeft="15.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="15.0dip" android:maxLines="1" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@color/window_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip">
+            <ProgressBar android:id="@id/read_from_cellphone_contact_start_process_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="150.0dip" android:maxHeight="10.0dip" android:indeterminateDrawable="@drawable/progressbar" android:minWidth="150.0dip" android:minHeight="10.0dip" style="?android:attr/progressBarStyleHorizontal" />
+            <Button android:textSize="16.0sp" android:id="@id/read_from_cellphone_contact_start_buttom" android:background="@drawable/settingnormalselector" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="30.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="30.0dip" android:text="@string/read_from_cellphone_contact_start_reading" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

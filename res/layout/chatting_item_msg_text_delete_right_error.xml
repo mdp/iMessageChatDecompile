@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/iv_deleteimage_delete_item_right_error" android:background="#ffdbe2ed" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/iv_deleteimage_delete_select_right_error" android:background="@drawable/deleteimageselect" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/iv_deleteimage_delete_right_error" android:background="@drawable/deleteimage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <RelativeLayout android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toRightOf="@id/iv_deleteimage_delete_right_error">
+            <ImageView android:id="@id/iv_deleteimage_send_error" android:background="@drawable/failure_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <TextView android:textSize="15.0sp" android:textColor="#ff000000" android:gravity="center_vertical" android:id="@id/tv_chatcontentto_delete_error" android:background="@drawable/chatto_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="50.0dip" android:layout_toLeftOf="@id/iv_deleteimage_send_error" android:layout_alignParentTop="true" android:lineSpacingExtra="2.0dip" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

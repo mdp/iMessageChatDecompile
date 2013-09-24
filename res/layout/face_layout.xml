@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/face_layout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/dot_layout" android:background="#ffdddddd" android:layout_width="fill_parent" android:layout_height="5.0dip" android:layout_above="@id/face_pager" android:layout_alignParentLeft="true" />
+    <android.support.v4.view.ViewPager android:id="@id/face_pager" android:background="#ffdddddd" android:persistentDrawingCache="animation" android:layout_width="wrap_content" android:layout_height="110.0dip" android:layout_above="@id/facegroup_layout" android:layout_alignParentLeft="true" />
+    <LinearLayout android:gravity="right|center" android:orientation="horizontal" android:id="@id/facegroup_layout" android:background="@drawable/group_bg_off" android:layout_width="fill_parent" android:layout_height="30.0dip" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

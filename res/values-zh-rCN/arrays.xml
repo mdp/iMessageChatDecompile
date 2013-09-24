@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="registeractivity_question">
+        <item>您的密语是什么？</item>
+        <item>您家乡的名称是什么？</item>
+        <item>喜爱的宠物的名称？</item>
+        <item>您童年时的英雄？</item>
+        <item>您的幸运数字？</item>
+    </string-array>
+    <string-array name="registeractivity_country">
+        <item>中国</item>
+        <item>美国</item>
+    </string-array>
+    <string-array name="registeractivity_country_code">
+        <item>CHN</item>
+        <item>USA</item>
+    </string-array>
+</resources>

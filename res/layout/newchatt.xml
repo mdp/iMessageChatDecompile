@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/LinearLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:id="@id/rl_layout" android:background="@drawable/uibuttonbardefaultbackgroundtop" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_weight="0.01">
+        <TextView android:textSize="15.0sp" android:textColor="#ffffffff" android:id="@id/query_mark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/newmessageactivity_query" android:layout_alignParentLeft="true" android:layout_centerInParent="true" />
+        <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:id="@id/newmessage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/newmessage" android:layout_centerInParent="true" />
+        <Button android:textSize="13.0sp" android:textColor="@color/window_bg" android:id="@id/Button10" android:background="@drawable/editbuttonselector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:layout_marginRight="10.0dip" android:minWidth="55.0dip" android:minHeight="45.0dip" android:text="@string/cancle" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/RelativeLayout01" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="18.0sp" android:textColor="#ffa5a5a5" android:gravity="center" android:id="@id/reciver" android:background="@color/white" android:layout_width="70.0dip" android:layout_height="40.0dip" android:layout_marginRight="10.0dip" android:text="@string/reciver" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <EditText android:textSize="18.0sp" android:id="@id/newmsgreciver" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="70.0dip" android:layout_marginRight="3.0dip" android:maxLines="4" android:layout_toLeftOf="@id/addfromcontactlist" android:layout_centerVertical="true" android:inputType="textMultiLine|textEmailAddress" />
+        <Button android:id="@id/addfromcontactlist" android:background="@drawable/contactlistbuttonselector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <ListView android:id="@id/listviewt" android:background="#ffdbe2ed" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="#00000000" android:divider="@null" android:dividerHeight="0.0dip" android:layout_weight="10.0" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@id/rl_bottomt" android:background="@drawable/sendbarbg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/chat_photo" android:background="@drawable/photobuttonselector" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+            <Button android:textSize="15.0sp" android:textColor="@color/thirty_trans_eee" android:id="@id/chat_sendt" android:background="@drawable/sendbuttonselector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/send" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <EditText android:textSize="15.0sp" android:id="@id/newsendmsg" android:background="@drawable/searchbar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="8" android:layout_toLeftOf="@id/chat_sendt" android:layout_toRightOf="@id/chat_photo" android:layout_centerVertical="true" android:inputType="textMultiLine" />
+        </RelativeLayout>
+        <android.support.v4.view.ViewPager android:layout_gravity="center" android:id="@id/chooseview" android:background="#fff32f33" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="110.0dip" android:layout_below="@id/rl_bottomt" />
+        <RelativeLayout android:layout_gravity="center" android:id="@id/viewpager" android:background="#ffdddddd" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="145.0dip" android:layout_below="@id/rl_bottomt" />
+    </RelativeLayout>
+</LinearLayout>
